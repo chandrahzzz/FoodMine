@@ -1,0 +1,7 @@
+cluster,name,restaurants,median_rating,median_votes,median_cost,pct_online_order,pct_table_booking,pct_highly_rated,top_type
+0,"Budget, average, known",8988,3.65,52.0,400.0,62.9,9.3,21.3,Quick Bites
+1,"Budget, average, unnoticed",166,3.6,14.0,100.0,48.8,0.0,9.6,Quick Bites
+2,"Budget, highly rated, popular",9,4.3,344.0,100.0,55.6,0.0,100.0,Quick Bites
+3,"Premium, highly rated, popular",25,4.3,597.0,3000.0,4.0,96.0,100.0,Fine Dining
+4,"Budget, highly rated, popular (2)",6,4.2,660.0,200.0,83.3,0.0,100.0,Quick Bites
+5,"Premium, poorly rated, popular",6,3.1,439.5,800.0,100.0,33.3,0.0,Casual Dining

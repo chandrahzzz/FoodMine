@@ -1,0 +1,41 @@
+feature,likelihood_ratio,restaurants
+primary_type = Microbrewery,54.199,31
+primary_type = Fine Dining,11.989,91
+Cuisine: Asian,8.775,190
+location = Lavelle Road,7.44,52
+primary_type = Pub,7.227,90
+service_type = Pubs and bars,5.465,330
+cost_level = High,5.246,1193
+Cuisine: American,4.891,201
+location = Church Street,4.375,55
+Cuisine: Salad,4.194,182
+n_cuisines = 7,4.142,59
+service_type = Buffet,4.062,276
+service_type = Drinks & nightlife,3.878,162
+Cuisine: Italian,3.795,509
+n_cuisines = 6,3.647,106
+location = Koramangala 5th Block,3.559,245
+Cuisine group: Continental & Western,3.35,1428
+Cuisine: Continental,3.189,842
+Cuisine group: Healthy,3.147,282
+location = Residency Road,3.076,74
+primary_type = Kiosk,0.466,49
+primary_type = Takeaway,0.455,467
+location = Shanti Nagar,0.436,51
+location = Bannerghatta Road,0.431,355
+primary_type = Quick Bites,0.429,3614
+location = Shivajinagar,0.427,34
+Cuisine: Kerala,0.425,249
+location = Majestic,0.42,62
+location = Electronic City,0.398,458
+Cuisine: Rolls,0.383,304
+location = RT Nagar,0.36,40
+location = Yeshwantpur,0.342,64
+primary_type = Unknown,0.3,36
+primary_type = Food Court,0.272,178
+location = Kumaraswamy Layout,0.217,65
+location = Kaggadasapura,0.209,50
+location = Wilson Garden,0.207,33
+location = Ejipura,0.201,34
+location = Banaswadi,0.142,148
+location = Bommanahalli,0.06,56

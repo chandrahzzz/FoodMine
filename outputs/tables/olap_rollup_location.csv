@@ -1,0 +1,93 @@
+location,restaurants,avg_rating,avg_votes,avg_cost,pct_highly_rated
+Whitefield,629,3.6,239.0,639.0,20.8
+BTM,538,3.56,133.0,403.0,12.8
+HSR,529,3.64,219.0,469.0,21.0
+Marathahalli,514,3.52,268.0,535.0,15.2
+Electronic City,458,3.47,121.0,523.0,10.3
+Indiranagar,449,3.78,576.0,640.0,41.0
+JP Nagar,388,3.64,231.0,489.0,22.2
+Bannerghatta Road,355,3.48,147.0,458.0,11.0
+Jayanagar,313,3.76,281.0,473.0,31.3
+Bellandur,274,3.5,145.0,518.0,14.6
+Sarjapur Road,261,3.6,259.0,525.0,16.9
+Koramangala 5th Block,245,3.92,736.0,597.0,51.0
+Banashankari,228,3.62,172.0,410.0,17.5
+New BEL Road,220,3.64,238.0,494.0,25.0
+Malleshwaram,204,3.73,303.0,525.0,36.3
+Kalyan Nagar,192,3.73,222.0,585.0,31.3
+Basavanagudi,180,3.67,186.0,353.0,21.1
+Rajajinagar,177,3.59,149.0,450.0,15.3
+Banaswadi,148,3.48,73.0,422.0,3.4
+Frazer Town,146,3.63,152.0,451.0,18.5
+Brookefield,144,3.57,204.0,443.0,20.8
+Koramangala 6th Block,134,3.73,338.0,571.0,34.3
+Koramangala 7th Block,130,3.75,347.0,530.0,30.0
+Kammanahalli,130,3.65,183.0,490.0,21.5
+Koramangala 1st Block,113,3.64,222.0,426.0,21.2
+Old Airport Road,111,3.63,243.0,726.0,19.8
+Brigade Road,111,3.67,357.0,641.0,27.0
+Koramangala 4th Block,104,3.84,587.0,652.0,43.3
+Ulsoor,94,3.71,188.0,746.0,30.9
+Nagawara,86,3.5,119.0,460.0,15.1
+MG Road,86,3.81,424.0,1137.0,41.9
+Domlur,75,3.52,166.0,617.0,18.7
+Residency Road,74,3.84,395.0,1002.0,47.3
+Jeevan Bhima Nagar,69,3.56,184.0,398.0,18.8
+Richmond Road,67,3.83,197.0,909.0,46.3
+Basaveshwara Nagar,67,3.6,106.0,431.0,11.9
+Kumaraswamy Layout,65,3.49,102.0,365.0,4.6
+Yeshwantpur,64,3.49,57.0,420.0,7.8
+Majestic,62,3.5,40.0,450.0,9.7
+Bommanahalli,56,3.22,59.0,473.0,0.0
+Church Street,55,3.89,892.0,766.0,56.4
+Lavelle Road,52,4.07,838.0,1379.0,69.2
+Shanti Nagar,51,3.5,133.0,475.0,9.8
+Vijay Nagar,50,3.61,122.0,374.0,14.0
+Thippasandra,50,3.54,93.0,370.0,12.0
+Kaggadasapura,50,3.49,95.0,426.0,4.0
+Hennur,48,3.45,61.0,420.0,12.5
+Cunningham Road,47,3.74,304.0,726.0,36.2
+Seshadripuram,46,3.72,139.0,838.0,37.0
+Vasanth Nagar,43,3.73,171.0,835.0,30.2
+Sahakara Nagar,40,3.65,168.0,460.0,17.5
+RT Nagar,40,3.48,131.0,455.0,7.5
+"ITPL Main Road, Whitefield",35,3.59,127.0,579.0,17.1
+St. Marks Road,34,3.92,632.0,765.0,44.1
+Shivajinagar,34,3.47,50.0,354.0,8.8
+Ejipura,34,3.47,56.0,350.0,2.9
+Commercial Street,34,3.57,119.0,384.0,14.7
+Wilson Garden,33,3.45,35.0,368.0,3.0
+Koramangala 8th Block,31,3.69,93.0,406.0,29.0
+"Varthur Main Road, Whitefield",30,3.54,61.0,332.0,10.0
+Sanjay Nagar,30,3.56,82.0,350.0,16.7
+Race Course Road,29,3.87,324.0,1331.0,44.8
+CV Raman Nagar,29,3.5,62.0,384.0,3.4
+Sadashiv Nagar,28,3.79,288.0,723.0,42.9
+HBR Layout,28,3.64,98.0,457.0,14.3
+City Market,21,3.56,40.0,324.0,14.3
+South Bangalore,19,3.45,53.0,353.0,0.0
+Koramangala 3rd Block,19,3.93,475.0,726.0,52.6
+Magadi Road,16,3.42,32.0,372.0,0.0
+Rammurthy Nagar,15,3.35,46.0,423.0,0.0
+Jalahalli,15,3.48,30.0,363.0,0.0
+East Bangalore,14,3.47,51.0,393.0,0.0
+Infantry Road,13,3.75,358.0,965.0,30.8
+Sankey Road,12,4.04,253.0,2696.0,66.7
+Kanakapura Road,10,3.47,50.0,490.0,0.0
+Hosur Road,10,3.81,124.0,555.0,40.0
+Old Madras Road,9,3.36,76.0,456.0,22.2
+Uttarahalli,8,3.5,66.0,381.0,0.0
+Mysore Road,8,3.64,75.0,444.0,0.0
+Koramangala 2nd Block,8,3.66,80.0,594.0,37.5
+KR Puram,8,3.55,30.0,381.0,0.0
+Koramangala,6,3.72,169.0,358.0,16.7
+North Bangalore,4,3.38,139.0,313.0,0.0
+Hebbal,4,3.6,56.0,425.0,25.0
+Yelahanka,3,3.6,34.0,317.0,0.0
+West Bangalore,2,3.4,288.0,475.0,0.0
+Rajarajeshwari Nagar,2,3.85,366.0,725.0,50.0
+Langford Town,2,3.65,131.0,688.0,0.0
+Peenya,1,3.2,5.0,300.0,0.0
+Nagarbhavi,1,3.4,10.0,250.0,0.0
+Kengeri,1,3.72,74.0,500.0,0.0
+Central Bangalore,1,3.65,15.0,350.0,0.0

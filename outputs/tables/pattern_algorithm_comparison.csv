@@ -1,0 +1,16 @@
+min_support,algorithm,seconds,itemsets,all_three_agree
+0.2,Apriori,0.0062,86,True
+0.2,FP-Growth,0.0499,86,True
+0.2,Eclat,0.0191,86,True
+0.1,Apriori,0.0186,418,True
+0.1,FP-Growth,0.0752,418,True
+0.1,Eclat,0.0193,418,True
+0.05,Apriori,0.0492,1320,True
+0.05,FP-Growth,0.1772,1320,True
+0.05,Eclat,0.0211,1320,True
+0.03,Apriori,0.1186,2584,True
+0.03,FP-Growth,0.2829,2584,True
+0.03,Eclat,0.0305,2584,True
+0.02,Apriori,0.2545,4122,True
+0.02,FP-Growth,0.3922,4122,True
+0.02,Eclat,0.0286,4122,True

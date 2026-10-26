@@ -1,0 +1,152 @@
+{
+  "best_model": "Bagging (decision trees)",
+  "knn_k": 9,
+  "knn_weights": "distance",
+  "train_size": 7602,
+  "test_size": 1901,
+  "positive_share": 0.221,
+  "confusion_matrices": {
+    "Majority baseline": [
+      [
+        1481,
+        0
+      ],
+      [
+        420,
+        0
+      ]
+    ],
+    "Naive Bayes": [
+      [
+        1276,
+        205
+      ],
+      [
+        197,
+        223
+      ]
+    ],
+    "Naive Bayes (balanced priors)": [
+      [
+        1181,
+        300
+      ],
+      [
+        149,
+        271
+      ]
+    ],
+    "KNN (k=9)": [
+      [
+        1368,
+        113
+      ],
+      [
+        237,
+        183
+      ]
+    ],
+    "KNN (k=9) + oversampling": [
+      [
+        1132,
+        349
+      ],
+      [
+        153,
+        267
+      ]
+    ],
+    "Bagging (KNN)": [
+      [
+        1373,
+        108
+      ],
+      [
+        235,
+        185
+      ]
+    ],
+    "Bagging (decision trees)": [
+      [
+        1391,
+        90
+      ],
+      [
+        234,
+        186
+      ]
+    ]
+  },
+  "bbn_expert_edges": [
+    [
+      "Type",
+      "Cost"
+    ],
+    [
+      "Type",
+      "OnlineOrder"
+    ],
+    [
+      "Cost",
+      "TableBooking"
+    ],
+    [
+      "Cost",
+      "Rating"
+    ],
+    [
+      "TableBooking",
+      "Rating"
+    ],
+    [
+      "OnlineOrder",
+      "Rating"
+    ],
+    [
+      "Rating",
+      "Popularity"
+    ]
+  ],
+  "bbn_learned_edges": [
+    [
+      "Cost",
+      "Type"
+    ],
+    [
+      "OnlineOrder",
+      "Popularity"
+    ],
+    [
+      "OnlineOrder",
+      "Cost"
+    ],
+    [
+      "OnlineOrder",
+      "TableBooking"
+    ],
+    [
+      "TableBooking",
+      "Cost"
+    ],
+    [
+      "TableBooking",
+      "Type"
+    ],
+    [
+      "Rating",
+      "Popularity"
+    ],
+    [
+      "Rating",
+      "TableBooking"
+    ],
+    [
+      "Popularity",
+      "TableBooking"
+    ],
+    [
+      "Popularity",
+      "Cost"
+    ]
+  ]
+}

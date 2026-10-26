@@ -1,0 +1,13 @@
+Cost,TableBooking,OnlineOrder,P(Highly rated),training_restaurants
+Low,No,No,0.103,1519
+Low,No,Yes,0.137,2452
+Low,Yes,No,0.853,2
+Low,Yes,Yes,0.131,10
+Medium,No,No,0.153,749
+Medium,No,Yes,0.223,1727
+Medium,Yes,No,0.593,42
+Medium,Yes,Yes,0.591,147
+High,No,No,0.292,247
+High,No,Yes,0.405,146
+High,Yes,No,0.779,313
+High,Yes,Yes,0.805,248

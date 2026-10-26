@@ -1,0 +1,12 @@
+{
+  "k": 4,
+  "dbscan_eps": 0.3051,
+  "dbscan_min_samples": 6,
+  "outlier_rules": {
+    "expensive_cost_at_least": 1000.0,
+    "cheap_cost_at_most": 300.0,
+    "extreme_votes_at_least": 3008.959999999999
+  },
+  "ARI K-Means vs K-Medoids": 0.6279,
+  "ARI K-Means vs DBSCAN": 0.007
+}

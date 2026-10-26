@@ -1,0 +1,43 @@
+{
+  "raw_rows": 51717,
+  "raw_columns_kept": [
+    "name",
+    "address",
+    "online_order",
+    "book_table",
+    "rate",
+    "votes",
+    "location",
+    "rest_type",
+    "cuisines",
+    "approx_cost(for two people)",
+    "listed_in(type)"
+  ],
+  "exact_duplicate_rows": 16664,
+  "unique_restaurants": 12499,
+  "listings_merged_away": 22554,
+  "missing_before": {
+    "rate": 2992,
+    "location": 9,
+    "rest_type": 62,
+    "cuisines": 18,
+    "approx_cost": 55
+  },
+  "unrated_new_restaurants": 2978,
+  "popularity_vote_cutoffs": [
+    24.0,
+    120.0
+  ],
+  "final_rated_restaurants": 9503,
+  "highly_rated_share": 0.221,
+  "cost_level_counts": {
+    "Low": 5019,
+    "Medium": 3291,
+    "High": 1193
+  },
+  "rating_level_counts": {
+    "Average": 4145,
+    "Poor": 3258,
+    "Good": 2100
+  }
+}

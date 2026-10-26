@@ -1,0 +1,46 @@
+cuisine,cuisine_group,restaurants,avg_rating,avg_votes,avg_cost,pct_highly_rated
+North Indian,North Indian,3937,3.57,284.0,602.0,18.2
+Chinese,Asian,2891,3.54,233.0,579.0,15.4
+South Indian,South Indian,1661,3.57,174.0,440.0,14.6
+Fast Food,Fast Food & Snacks,1632,3.56,135.0,406.0,14.7
+Biryani,South Indian,1310,3.52,206.0,488.0,12.6
+Desserts,Desserts & Bakery,1002,3.79,187.0,414.0,34.1
+Beverages,Beverages & Cafe,864,3.73,179.0,403.0,28.5
+Continental,Continental & Western,842,3.89,638.0,1014.0,47.5
+Cafe,Beverages & Cafe,686,3.8,422.0,637.0,42.1
+Street Food,Fast Food & Snacks,612,3.59,134.0,297.0,19.3
+Italian,Continental & Western,509,3.88,683.0,912.0,51.9
+Bakery,Desserts & Bakery,502,3.62,89.0,405.0,19.3
+Pizza,Fast Food & Snacks,400,3.74,526.0,707.0,42.0
+Andhra,South Indian,388,3.53,246.0,571.0,13.4
+Ice Cream,Desserts & Bakery,379,3.78,140.0,306.0,29.8
+Burger,Fast Food & Snacks,373,3.74,479.0,564.0,32.2
+Seafood,Seafood,325,3.73,372.0,719.0,28.9
+Mughlai,North Indian,308,3.68,480.0,708.0,33.4
+Rolls,Fast Food & Snacks,304,3.5,128.0,335.0,9.5
+Kerala,South Indian,249,3.56,151.0,490.0,10.4
+Momos,Asian,247,3.71,336.0,541.0,28.3
+Mithai,Desserts & Bakery,214,3.59,96.0,263.0,16.4
+Juices,Beverages & Cafe,205,3.59,175.0,305.0,16.1
+American,Continental & Western,201,3.97,1236.0,968.0,58.2
+Arabian,Middle Eastern,197,3.6,275.0,560.0,18.8
+Asian,Asian,190,4.1,863.0,1282.0,71.6
+Thai,Asian,190,3.85,519.0,961.0,43.2
+Salad,Healthy,182,3.92,782.0,895.0,54.4
+Kebab,North Indian,177,3.59,381.0,542.0,22.0
+Sandwich,Fast Food & Snacks,171,3.74,160.0,387.0,32.7
+Finger Food,Fast Food & Snacks,163,3.94,840.0,1365.0,55.2
+Healthy Food,Healthy,152,3.8,241.0,508.0,38.2
+BBQ,Continental & Western,129,4.0,1273.0,1004.0,53.5
+Mangalorean,South Indian,113,3.7,199.0,697.0,28.3
+Bengali,Regional Indian,110,3.55,198.0,483.0,12.7
+European,Continental & Western,105,4.17,1483.0,1534.0,78.1
+Mexican,Continental & Western,102,3.93,536.0,747.0,59.8
+Mediterranean,Continental & Western,86,4.2,1634.0,1472.0,76.7
+Steak,Continental & Western,76,4.04,1294.0,1047.0,67.1
+Hyderabadi,South Indian,70,3.46,157.0,580.0,21.4
+Tea,Beverages & Cafe,66,3.67,140.0,321.0,21.2
+Tibetan,Asian,56,3.59,159.0,373.0,23.2
+Japanese,Asian,45,4.2,829.0,1752.0,86.7
+Chettinad,South Indian,38,3.55,310.0,621.0,15.8
+Vietnamese,Asian,32,3.96,674.0,1095.0,65.6

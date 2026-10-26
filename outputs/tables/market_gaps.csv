@@ -1,0 +1,26 @@
+area,cuisine_group,restaurants,area_restaurants,avg_rating,avg_votes,demand_index,supply_index,gap_score
+JP Nagar,Middle Eastern,3,388,3.61,396.75,1.36,0.3,4.48
+Bannerghatta Road,Middle Eastern,8,355,3.68,662.33,3.57,0.89,4.02
+BTM,Continental & Western,36,538,3.88,664.85,1.42,0.45,3.19
+Bellandur,Seafood,4,274,3.44,301.75,1.36,0.43,3.19
+Sahakara Nagar,North Indian,11,40,3.6,409.27,1.94,0.64,3.02
+Kumaraswamy Layout,Desserts & Bakery,6,65,3.46,103.29,1.68,0.58,2.9
+Frazer Town,Beverages & Cafe,16,146,3.71,308.39,1.84,0.66,2.79
+Electronic City,Seafood,14,458,3.5,453.5,2.44,0.89,2.74
+Malleshwaram,Asian,45,204,3.77,672.05,1.75,0.67,2.62
+Seshadripuram,Fast Food & Snacks,11,46,3.76,275.07,1.98,0.78,2.53
+Sahakara Nagar,Asian,10,40,3.41,374.92,1.76,0.75,2.33
+Church Street,Asian,13,55,3.85,1828.69,1.61,0.71,2.26
+BTM,Seafood,13,538,3.69,323.54,1.58,0.7,2.25
+Yeshwantpur,Desserts & Bakery,7,64,3.68,52.44,1.51,0.69,2.21
+MG Road,South Indian,13,86,3.65,342.43,1.02,0.47,2.17
+Electronic City,Middle Eastern,11,458,3.55,311.82,2.05,0.95,2.16
+Frazer Town,North Indian,45,146,3.68,291.04,1.52,0.72,2.12
+Jeevan Bhima Nagar,Desserts & Bakery,9,69,3.42,190.0,1.71,0.82,2.1
+Thippasandra,South Indian,16,50,3.62,152.61,2.07,0.99,2.09
+Frazer Town,Seafood,4,146,3.8,380.75,1.64,0.8,2.05
+Domlur,Desserts & Bakery,11,75,3.73,185.0,1.85,0.92,2.02
+Marathahalli,Seafood,13,514,3.66,607.62,1.48,0.74,2.0
+Marathahalli,Continental & Western,63,514,3.99,1525.87,1.62,0.82,1.99
+Whitefield,Seafood,19,694,3.69,547.11,1.58,0.8,1.98
+MG Road,Asian,26,86,3.89,965.0,1.79,0.91,1.96

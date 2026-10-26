@@ -1,0 +1,25 @@
+area,location,restaurants,avg_rating,avg_votes,avg_cost,pct_highly_rated
+BTM,BTM,538,3.56,133.0,403.0,12.8
+HSR,HSR,529,3.64,219.0,469.0,21.0
+Electronic City,Electronic City,458,3.47,121.0,523.0,10.3
+JP Nagar,JP Nagar,388,3.64,231.0,489.0,22.2
+Bannerghatta Road,Bannerghatta Road,355,3.48,147.0,458.0,11.0
+Jayanagar,Jayanagar,313,3.76,281.0,473.0,31.3
+Koramangala,Koramangala 5th Block,245,3.92,736.0,597.0,51.0
+Banashankari,Banashankari,228,3.62,172.0,410.0,17.5
+Basavanagudi,Basavanagudi,180,3.67,186.0,353.0,21.1
+Koramangala,Koramangala 6th Block,134,3.73,338.0,571.0,34.3
+Koramangala,Koramangala 7th Block,130,3.75,347.0,530.0,30.0
+Koramangala,Koramangala 1st Block,113,3.64,222.0,426.0,21.2
+Koramangala,Koramangala 4th Block,104,3.84,587.0,652.0,43.3
+Kumaraswamy Layout,Kumaraswamy Layout,65,3.49,102.0,365.0,4.6
+Bommanahalli,Bommanahalli,56,3.22,59.0,473.0,0.0
+Ejipura,Ejipura,34,3.47,56.0,350.0,2.9
+Koramangala,Koramangala 8th Block,31,3.69,93.0,406.0,29.0
+Koramangala,Koramangala 3rd Block,19,3.93,475.0,726.0,52.6
+South Bangalore,South Bangalore,19,3.45,53.0,353.0,0.0
+Hosur Road,Hosur Road,10,3.81,124.0,555.0,40.0
+Kanakapura Road,Kanakapura Road,10,3.47,50.0,490.0,0.0
+Koramangala,Koramangala 2nd Block,8,3.66,80.0,594.0,37.5
+Uttarahalli,Uttarahalli,8,3.5,66.0,381.0,0.0
+Koramangala,Koramangala,6,3.72,169.0,358.0,16.7

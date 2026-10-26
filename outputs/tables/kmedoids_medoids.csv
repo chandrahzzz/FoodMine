@@ -1,0 +1,5 @@
+name,location,primary_type,rate,votes,approx_cost,cluster,cluster_name
+Kabab Palace,Rajajinagar,Quick Bites,3.8,74,350.0,0,"Budget, average, known"
+Pavan Tiffin Center,HSR,Quick Bites,3.3,9,300.0,1,"Budget, poorly rated, unnoticed"
+Vandana Andhra and Multi Cuisine,Sarjapur Road,Casual Dining,4.1,491,900.0,2,"Premium, highly rated, popular"
+Zam Zam Darbar,BTM,Casual Dining,2.9,84,500.0,3,"Mid-range, poorly rated, known"

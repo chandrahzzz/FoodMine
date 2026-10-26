@@ -1,0 +1,357 @@
+restaurant_id,name,location,area,zone,primary_type,cuisines,rate,votes,approx_cost,online_order,book_table,highly_rated,kmeans_cluster,kmeans_name,kmedoids_cluster,dbscan_cluster,outlier_reasons
+1804,Byg Brewski Brewing Company,Sarjapur Road,Sarjapur Road,East,Microbrewery,"Continental, North Indian, Italian, South Indian, Finger Food",4.9,16832,1600.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6590,Toit,Indiranagar,Indiranagar,East,Microbrewery,"Italian, American, Pizza",4.7,14956,1500.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3949,Truffles,Koramangala 5th Block,Koramangala,South,Cafe,"Cafe, American, Burger, Steak",4.7,14726,900.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8394,AB's - Absolute Barbecues,Marathahalli,Marathahalli,East,Casual Dining,"European, Mediterranean, North Indian, BBQ",4.8,12121,1600.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4330,Onesta,Koramangala 4th Block,Koramangala,South,Casual Dining,"Pizza, Cafe, Italian",4.4,9085,600.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2920,Arbor Brewing Company,Brigade Road,Brigade Road,Central,Pub,"American, Continental, Salad",4.5,8419,2000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6121,Empire Restaurant,Indiranagar,Indiranagar,East,Casual Dining,"North Indian, Mughlai, South Indian, Chinese",4.14,8304,750.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7591,Prost Brew Pub,Koramangala 4th Block,Koramangala,South,Pub,"American, Continental, North Indian, Salad",4.5,7871,1800.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2518,Church Street Social,Church Street,Church Street,Central,Lounge,"American, North Indian, Chinese, Finger Food, Momos",4.3,7584,1500.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7456,The Hole in the Wall Cafe,Koramangala 4th Block,Koramangala,South,Cafe,"Cafe, American, Burger",4.6,7137,600.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3861,Biergarten,Whitefield,Whitefield,East,Microbrewery,"Continental, European, BBQ, Chinese, Asian",4.7,7064,2400.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3925,Empire Restaurant,Koramangala 5th Block,Koramangala,South,Casual Dining,"North Indian, Mughlai, South Indian, Chinese",4.1,6959,750.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6064,TBC Sky Lounge,HSR,HSR,South,Casual Dining,"Continental, Asian, Italian, North Indian",4.7,6745,1000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3906,AB's - Absolute Barbecues,BTM,BTM,South,Casual Dining,"European, Mediterranean, North Indian, BBQ",4.9,6490,1600.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3862,Windmills Craftworks,Whitefield,Whitefield,East,Microbrewery,"American, North Indian, Salad",4.6,5954,2500.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2949,Hard Rock Cafe,St. Marks Road,St. Marks Road,Central,Casual Dining,"American, BBQ",4.5,5294,2500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+38,Empire Restaurant,Jayanagar,Jayanagar,South,Casual Dining,"North Indian, Mughlai, South Indian, Chinese",4.4,5060,750.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8274,High Ultra Lounge,Malleshwaram,Malleshwaram,North,Lounge,"Japanese, Thai, Chinese, Korean",4.1,4781,2600.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8583,The Boozy Griffin,Marathahalli,Marathahalli,East,Pub,"European, Continental",4.8,4705,1800.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7454,Barleyz,Koramangala 6th Block,Koramangala,South,Lounge,"North Indian, Continental, Chinese",3.76,4660,2000.0,0,0,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4754,House Of Commons,Koramangala 5th Block,Koramangala,South,Bar,"Continental, Asian, North Indian",4.73,4470,1000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+475,Vidyarthi Bhavan,Basavanagudi,Basavanagudi,South,Quick Bites,South Indian,4.4,4460,150.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise; Cheap with extreme votes
+2925,Plan B,Brigade Road,Brigade Road,Central,Casual Dining,"American, Continental, BBQ, Steak",4.15,4448,1200.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7902,CTR,Malleshwaram,Malleshwaram,North,Quick Bites,South Indian,4.75,4421,150.0,1,0,1,3,"Budget, average, known",2,-1,DBSCAN noise; Cheap with extreme votes
+4695,Gilly's Restobar,Koramangala 5th Block,Koramangala,South,Pub,"Finger Food, Continental, North Indian",4.5,3923,1000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8650,Truffles,New BEL Road,New BEL Road,North,Cafe,"Cafe, American, Burger, Steak",4.7,3916,900.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3950,Dyu Art Cafe,Koramangala 5th Block,Koramangala,South,Cafe,"Cafe, Italian, Fast Food",4.5,3854,800.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4020,Kota Kachori,Koramangala 6th Block,Koramangala,South,Quick Bites,"Street Food, Desserts, North Indian, Mithai, Rajasthani",4.3,3624,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2339,Truffles,St. Marks Road,St. Marks Road,Central,Cafe,"Cafe, American, Burger, Steak",4.5,3614,900.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6066,House Of Commons,HSR,HSR,South,Bar,"Continental, Asian, North Indian",4.7,3573,1000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4952,ECHOES Koramangala,Koramangala 5th Block,Koramangala,South,Cafe,"Chinese, American, Continental, Italian, North Indian",4.7,3220,750.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2945,Skyye,Lavelle Road,Lavelle Road,Central,Lounge,Continental,4.2,3140,2500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3137,Flechazo,Whitefield,Whitefield,East,Casual Dining,"Asian, Mediterranean, North Indian, BBQ",4.9,3004,1400.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3356,Onesta,Marathahalli,Marathahalli,East,Casual Dining,"Pizza, Cafe, Italian",4.6,2906,600.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1583,Mavalli Tiffin Room (MTR),Basavanagudi,Basavanagudi,South,Quick Bites,South Indian,4.5,2896,250.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1584,Brahmin's Coffee Bar,Basavanagudi,Basavanagudi,South,Quick Bites,South Indian,4.8,2679,100.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8,Onesta,Banashankari,Banashankari,South,Casual Dining,"Pizza, Cafe, Italian",4.6,2604,600.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6787,Shivaji Military Hotel,Jayanagar,Jayanagar,South,Casual Dining,"South Indian, Biryani",4.3,2497,450.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2746,The Humming Tree,Indiranagar,Indiranagar,East,Lounge,"Fast Food, European",4.03,2432,2000.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8088,Veena Stores,Malleshwaram,Malleshwaram,North,Quick Bites,South Indian,4.5,2416,150.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2947,Yauatcha,MG Road,MG Road,Central,Fine Dining,"Chinese, Asian, Cantonese, Tea",4.6,2372,2800.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3916,Asia Kitchen By Mainland China,Koramangala 5th Block,Koramangala,South,Casual Dining,"Asian, Chinese, Thai, Momos",4.9,2256,1500.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2511,Shiro,Lavelle Road,Lavelle Road,Central,Fine Dining,"Japanese, Asian",4.4,2247,3000.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2584,NoLimmits Lounge and Club,Brigade Road,Brigade Road,Central,Club,"Chinese, Continental, North Indian, Burger, Pizza",4.05,2181,2000.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6207,Corner House Ice Cream,Indiranagar,Indiranagar,East,Dessert Parlor,"Ice Cream, Desserts",4.7,2174,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6565,Milano Ice Cream,Indiranagar,Indiranagar,East,Dessert Parlor,"Ice Cream, Desserts",4.9,2090,400.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7940,Punjab Grill,Malleshwaram,Malleshwaram,North,Casual Dining,"North Indian, Mughlai",4.9,1985,2000.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2279,The Tao Terraces,MG Road,MG Road,Central,Casual Dining,"Thai, Japanese, Korean, Burmese, Chinese",3.95,1943,2100.0,1,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2803,Art of Delight,Residency Road,Residency Road,Central,Dessert Parlor,"Ice Cream, Desserts, Beverages",4.4,1916,400.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4681,Berry'd Alive,Koramangala 5th Block,Koramangala,South,Dessert Parlor,Desserts,4.3,1904,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3569,Moriz Restaurant,Brookefield,Brookefield,East,Casual Dining,"Arabian, North Indian, Biryani, Chinese, Seafood",2.8,1884,750.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6639,Mavalli Tiffin Room (MTR),Indiranagar,Indiranagar,East,Quick Bites,South Indian,4.3,1878,300.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6739,Hari Super Sandwich,Jayanagar,Jayanagar,South,Quick Bites,"Fast Food, Street Food",4.4,1833,200.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+3794,Golkonda Chimney,Marathahalli,Marathahalli,East,Casual Dining,"Biryani, North Indian, Mughlai",3.6,1824,850.0,1,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+9385,BelgYum,Whitefield,Whitefield,East,Dessert Parlor,Desserts,4.6,1822,400.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+341,Maiyas,Jayanagar,Jayanagar,South,Quick Bites,"North Indian, South Indian, Fast Food, Juices",4.0,1785,200.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+6441,The Pizza Bakery,Indiranagar,Indiranagar,East,Casual Dining,"Italian, Pizza, Beverages",4.8,1785,1200.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1341,Onesta,Basavanagudi,Basavanagudi,South,Casual Dining,"Pizza, Cafe, Italian",4.6,1755,600.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2432,Belgian Waffle Factory,Brigade Road,Brigade Road,Central,Dessert Parlor,Desserts,4.9,1750,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+64,Kabab Magic,Basavanagudi,Basavanagudi,South,Quick Bites,"North Indian, Kebab, Chinese, Fast Food",4.1,1720,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5804,Here & Now,HSR,HSR,South,Cafe,"Cafe, American, Burger, Beverages",4.6,1590,750.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3141,Mainland China,Whitefield,Whitefield,East,Casual Dining,"Chinese, Momos",4.7,1562,1700.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5598,Al Amanah Cafe,Kammanahalli,Kammanahalli,North,Quick Bites,"Middle Eastern, Fast Food, Rolls",4.4,1514,300.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2962,Caperberry,Lavelle Road,Lavelle Road,Central,Fine Dining,"Spanish, Italian, Mediterranean, European, Salad",4.6,1439,2200.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2712,Tandoor,MG Road,MG Road,Central,Fine Dining,North Indian,3.9,1377,2100.0,1,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8276,Barbecue by Punjab Grill,Malleshwaram,Malleshwaram,North,Casual Dining,BBQ,4.75,1367,1300.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5175,Moriz Restaurant,Electronic City,Electronic City,South,Casual Dining,"Arabian, Seafood, North Indian, Chinese, BBQ, Biryani, Beverages",3.1,1365,700.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2767,Sunny's,Lavelle Road,Lavelle Road,Central,Casual Dining,"European, Italian, Seafood, Continental",4.1,1343,2100.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6148,Chaipatty,Indiranagar,Indiranagar,East,Cafe,Cafe,3.05,1275,600.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3051,Indian Coffee House,Church Street,Church Street,Central,Quick Bites,South Indian,3.98,1223,200.0,0,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+2630,Le Rock,Brigade Road,Brigade Road,Central,Bar,"Continental, Chinese",4.04,1222,2000.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7895,Halli Mane,Malleshwaram,Malleshwaram,North,Quick Bites,"South Indian, North Indian, Chinese",4.0,1196,250.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8928,Gowdru Hotel,Vijay Nagar,Vijay Nagar,West,Quick Bites,"Biryani, South Indian",3.9,1176,250.0,1,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+8262,O.G. Variar & Sons,Rajajinagar,Rajajinagar,West,Bakery,"Bakery, Desserts",4.8,1161,200.0,0,0,1,3,"Budget, average, known",2,-1,DBSCAN noise
+6612,Xtreme Sports Bar,Indiranagar,Indiranagar,East,Lounge,"Continental, Chinese, North Indian",3.65,1118,1450.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3960,Lot Like Crepes,Koramangala 7th Block,Koramangala,South,Cafe,"Cafe, Desserts, Continental",4.62,1028,550.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4686,Banana Beach Bar,Koramangala 6th Block,Koramangala,South,Bar,"Continental, Chinese",3.7,1016,1300.0,1,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2280,Rim Naam - The Oberoi,MG Road,MG Road,Central,Fine Dining,Thai,4.6,988,3000.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6419,Tadka Singh,Indiranagar,Indiranagar,East,Casual Dining,North Indian,3.4,946,700.0,0,0,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6567,Natural Ice Cream,Indiranagar,Indiranagar,East,Dessert Parlor,"Ice Cream, Desserts",4.6,945,175.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+7532,Natural Ice Cream,Koramangala 1st Block,Koramangala,South,Dessert Parlor,"Ice Cream, Beverages",4.5,942,200.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+3999,Delhi Food Point,Koramangala 1st Block,Koramangala,South,Quick Bites,"North Indian, Beverages",3.3,912,250.0,1,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+4465,Lazeez,Koramangala 5th Block,Koramangala,South,Casual Dining,"North Indian, Mughlai, Biryani",3.14,911,600.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3144,M Cafe - Bengaluru Marriott Hotel Whitefield,Whitefield,Whitefield,East,Fine Dining,"North Indian, American, Italian",4.1,833,2500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1785,Savoury Restaurant,Sarjapur Road,Sarjapur Road,East,Casual Dining,"Arabian, North Indian, Chinese, Kerala, Seafood, Biryani",2.9,833,800.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6413,Madurai Idly Shop,Indiranagar,Indiranagar,East,Quick Bites,South Indian,3.73,731,200.0,0,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+1725,Moriz Restaurant,Marathahalli,Marathahalli,East,Casual Dining,"Arabian, North Indian, Seafood, Chinese, Biryani",3.05,684,800.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2950,Karavalli - The Gateway Hotel,Residency Road,Residency Road,Central,Fine Dining,"Mangalorean, Konkan, Seafood, Kerala",4.5,682,3500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3453,Punjab Grill,Whitefield,Whitefield,East,Casual Dining,North Indian,4.83,654,2000.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+442,Taaza Thindi,Banashankari,Banashankari,South,Quick Bites,South Indian,4.7,651,100.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2997,i-Bar - The Park Bangalore,MG Road,MG Road,Central,Lounge,"North Indian, Chinese, Mediterranean",3.8,625,3000.0,0,0,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7713,Gullu's Chat,Seshadripuram,Seshadripuram,Central,Quick Bites,"Fast Food, Street Food, Juices",3.68,600,250.0,1,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+2968,Alba - JW Marriott Bengaluru,Lavelle Road,Lavelle Road,Central,Fine Dining,Italian,4.43,583,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5941,Kachori Kafe,HSR,HSR,South,Quick Bites,"Street Food, Mithai, Desserts, North Indian",3.15,571,300.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+7506,Mast Kalandar,Koramangala 4th Block,Koramangala,South,Casual Dining,North Indian,2.5,547,450.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5125,The Big Barbeque,Electronic City,Electronic City,South,Casual Dining,"BBQ, North Indian, Continental, Chinese",4.7,544,1500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+9423,A2B - Adyar Ananda Bhavan,Whitefield,Whitefield,East,Casual Dining,"South Indian, North Indian, Chinese, Street Food, Fast Food",2.5,544,400.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5876,Vasudev Adiga's,HSR,HSR,South,Casual Dining,"South Indian, North Indian, Chinese, Street Food",3.7,532,250.0,0,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+4947,Biergarten,Koramangala 5th Block,Koramangala,South,Pub,"Continental, North Indian, Chinese, European, BBQ, Finger Food, Asian",4.8,524,2100.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6696,Jamavar - The Leela Palace,Old Airport Road,Old Airport Road,East,Fine Dining,"North Indian, South Indian",4.2,522,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8411,Midnight Food Point,Marathahalli,Marathahalli,East,Unknown,"North Indian, Chinese, Mughlai, Biryani",2.6,492,500.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3702,Bageecha,Marathahalli,Marathahalli,East,Casual Dining,"North Indian, Chinese",2.15,479,650.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+8589,Saffron - Radisson Blu,Marathahalli,Marathahalli,East,Fine Dining,"North Indian, Mughlai, Lucknowi",4.5,457,2500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1887,Wangs Kitchen,HSR,HSR,South,Casual Dining,Chinese,2.4,438,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+6700,XU,Old Airport Road,Old Airport Road,East,Club,"European, Spanish, Continental, Italian",3.95,433,2400.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8329,Royal Afghan - ITC Windsor,Sankey Road,Sankey Road,Central,Fine Dining,"North Indian, Mughlai",4.3,413,5000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2686,Mamma Mexicana,MG Road,MG Road,Central,Casual Dining,Mexican,2.2,409,1000.0,1,1,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+3006,WYT RestroPub,MG Road,MG Road,Central,Pub,"North Indian, Chinese",2.66,409,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+2929,Fusion Lounge,Brigade Road,Brigade Road,Central,Lounge,Finger Food,2.0,402,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+1124,Ammi's Biryani,Bannerghatta Road,Bannerghatta Road,South,Unknown,"Biryani, North Indian",2.4,392,500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5767,Belgian Waffle Factory,Vasanth Nagar,Vasanth Nagar,Central,Dessert Parlor,Desserts,4.8,392,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3806,Wangs Kitchen,Marathahalli,Marathahalli,East,Casual Dining,Chinese,3.0,384,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+5351,Seasons,Electronic City,Electronic City,South,Casual Dining,"North Indian, South Indian, Chinese, Seafood, Kerala, Arabian, Juices",2.9,380,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+3638,Konaseema Grand,Whitefield,Whitefield,East,Casual Dining,"North Indian, Mughlai, Andhra, Biryani",3.25,379,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+478,Soho Bar & Grill,Basavanagudi,Basavanagudi,South,Pub,"North Indian, Chinese, Thai",2.7,377,1100.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+3525,Ammi's Biryani,Marathahalli,Marathahalli,East,Quick Bites,"Biryani, North Indian",2.1,342,500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5047,Mynt - The Taj West End,Race Course Road,Race Course Road,Central,Fine Dining,"Italian, North Indian, Lebanese",4.1,342,2500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2104,Mast Kalandar,Bellandur,Bellandur,East,Casual Dining,North Indian,2.1,338,450.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6131,The Paramount Hotel,Domlur,Domlur,East,Casual Dining,"North Indian, Chinese, Kerala, Mughlai, Arabian, Beverages",2.9,326,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+6012,Lazeez,Koramangala 1st Block,Koramangala,South,Casual Dining,"North Indian, Mughlai, Biryani",2.4,318,600.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3881,Pizza Hut,Marathahalli,Marathahalli,East,Quick Bites,Pizza,2.2,310,750.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5116,Masala Klub - The Taj West End,Race Course Road,Race Course Road,Central,Fine Dining,"North Indian, South Indian",4.4,309,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7702,La Brasserie - Le Meridien,Sankey Road,Sankey Road,Central,Fine Dining,"North Indian, Continental, Japanese, Chinese, South Indian",4.1,309,4100.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8640,Vasudev Adiga's,MG Road,MG Road,Central,Quick Bites,"South Indian, North Indian, Chinese, Street Food",2.5,301,250.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+9257,Maziga,Whitefield,Whitefield,East,Casual Dining,Modern Indian,4.7,292,1500.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7509,Vasudev Adiga's,Koramangala 4th Block,Koramangala,South,Casual Dining,"South Indian, North Indian, Chinese, Street Food",2.83,291,250.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+8336,Dum Pukht Jolly Nabobs - ITC Windsor,Sankey Road,Sankey Road,Central,Fine Dining,North Indian,4.3,291,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1132,Vasudev Adiga's,Bannerghatta Road,Bannerghatta Road,South,Casual Dining,"South Indian, North Indian, Chinese, Street Food, Juices",2.3,291,250.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+7856,Ganesh Darshini,Malleshwaram,Malleshwaram,North,Quick Bites,"South Indian, Fast Food",3.7,286,150.0,1,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+3434,You Mee,Whitefield,Whitefield,East,Casual Dining,"Sushi, Japanese, Chinese, Thai",4.7,277,2000.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2987,Riwaz - The Ritz-Carlton,Residency Road,Residency Road,Central,Fine Dining,North Indian,4.13,275,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3416,Sherlock's Pub,Brookefield,Brookefield,East,Pub,"Continental, North Indian, Chinese",3.36,273,1500.0,1,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise; Expensive but poorly rated
+6952,Belgian Waffle Factory,Kalyan Nagar,Kalyan Nagar,North,Dessert Parlor,Desserts,4.8,265,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+564,Sri Lakshmi Dhaba,BTM,BTM,South,Quick Bites,North Indian,2.93,262,250.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6655,Subway,Indiranagar,Indiranagar,East,Quick Bites,"Salad, Fast Food",2.4,261,550.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+8428,Bhagini,Marathahalli,Marathahalli,East,Casual Dining,"Andhra, South Indian, Chinese, North Indian",2.0,259,800.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+1646,Skylit - Citrus Hotels,Bellandur,Bellandur,East,Lounge,"North Indian, Mughlai, Mediterranean",3.6,259,1500.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7069,The Bawarchi,Banaswadi,Banaswadi,East,Casual Dining,"North Indian, Chinese",2.57,256,1050.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+2306,Mint Masala,Infantry Road,Infantry Road,Central,Casual Dining,"North Indian, Chinese",2.8,255,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+2763,Midnight Hunger Solutions 24/7,Indiranagar,Indiranagar,East,Delivery,"North Indian, Mughlai, Chinese",2.1,254,500.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3789,Aashirvaad Restaurant,Marathahalli,Marathahalli,East,Quick Bites,"North Indian, Oriya, Chinese",3.1,253,300.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5848,Kitchens@HSR,HSR,HSR,South,Takeaway,"Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",3.1,247,200.0,1,0,0,0,"Budget, poorly rated, unnoticed",3,-1,DBSCAN noise
+8909,SantÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Spa Cuisine,Indiranagar,Indiranagar,East,Casual Dining,"Healthy Food, Salad, Mediterranean",4.9,246,1000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+48,Tasty Bytes,Kumaraswamy Layout,Kumaraswamy Layout,South,Quick Bites,"North Indian, Chinese, Momos, Rolls",3.1,245,300.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3719,Decker's Lane,Marathahalli,Marathahalli,East,Quick Bites,Bengali,2.1,243,400.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+1799,Meghana Biryani,Bellandur,Bellandur,East,Casual Dining,North Indian,2.3,240,800.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2984,Edo Restaurant & Bar - ITC Gardenia,Richmond Road,Richmond Road,Central,Fine Dining,Japanese,4.3,237,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2665,Ging - Royal Orchid Central,MG Road,MG Road,Central,Bar,Asian,4.33,232,2000.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6320,Laddoos,Jeevan Bhima Nagar,Jeevan Bhima Nagar,East,Quick Bites,"North Indian, Street Food, Mithai",2.9,229,250.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3034,Alibi - Maya International Hotel,Church Street,Church Street,Central,Casual Dining,"North Indian, Continental, Chinese",1.8,225,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+4574,Punjabi Daawat,BTM,BTM,South,Quick Bites,North Indian,2.4,221,550.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6589,Nevermind - Bar & Social,Indiranagar,Indiranagar,East,Casual Dining,"Continental, Asian, Modern Indian",4.4,221,1850.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6528,Calcutta Victoria Chat House,Jeevan Bhima Nagar,Jeevan Bhima Nagar,East,Quick Bites,Street Food,3.55,219,150.0,0,0,0,3,"Budget, average, known",0,-1,DBSCAN noise
+3101,Chikkanna Tiffin Room,City Market,City Market,Central,Quick Bites,South Indian,4.5,207,200.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+6372,Apsara Ice Cream,Indiranagar,Indiranagar,East,Dessert Parlor,"Ice Cream, Desserts",4.6,206,200.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+1287,Pizza Hut,Bannerghatta Road,Bannerghatta Road,South,Quick Bites,Pizza,2.4,204,750.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+8332,Dakshin - ITC Windsor,Sankey Road,Sankey Road,Central,Fine Dining,South Indian,4.3,202,4000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4432,Belgian Waffle Factory,Koramangala 5th Block,Koramangala,South,Dessert Parlor,Desserts,4.81,201,400.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1265,Guru Paradise,Bannerghatta Road,Bannerghatta Road,South,Casual Dining,"Chinese, South Indian, North Indian",2.9,200,1000.0,0,1,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+1659,Opus Food Stories,Sarjapur Road,Sarjapur Road,East,Bar,"Goan, Asian, North Indian, European, Continental",4.6,200,1500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2972,Salvadores,MG Road,MG Road,Central,Fine Dining,"Mediterranean, Continental, French, Italian",4.4,198,2000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5864,Apsara Ice Cream,HSR,HSR,South,Dessert Parlor,"Ice Cream, Desserts",4.5,194,200.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2263,Madurai Idly Shop,Sarjapur Road,Sarjapur Road,East,Quick Bites,South Indian,2.15,193,200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2995,Matsuri - The Chancery Hotel,Lavelle Road,Lavelle Road,Central,Casual Dining,Japanese,4.4,185,1800.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+187,Karma Kaapi,Jayanagar,Jayanagar,South,Beverage Shop,"Beverages, Tea",4.43,184,250.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+3050,Siddiqu Kabab Center,Richmond Road,Richmond Road,Central,Quick Bites,"North Indian, Rolls",4.43,181,250.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8498,Namma Madurai,Kaggadasapura,Kaggadasapura,East,Quick Bites,South Indian,3.0,179,200.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3157,Keys Cafe - Keys Hotel,Whitefield,Whitefield,East,Casual Dining,"Chinese, Continental, North Indian",2.8,161,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+1306,Paratha Junction,Bannerghatta Road,Bannerghatta Road,South,Quick Bites,"North Indian, Chinese",2.4,158,300.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+1363,eat.fit,Koramangala 5th Block,Koramangala,South,Delivery,"Healthy Food, North Indian, Biryani, Continental, Sandwich, Desserts",4.57,158,500.0,1,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6202,Red Kitchen,Jeevan Bhima Nagar,Jeevan Bhima Nagar,East,Quick Bites,"North Indian, South Indian, Chinese",3.3,155,200.0,1,0,0,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+4874,Black Deer,Koramangala 5th Block,Koramangala,South,Takeaway,"Beverages, Ice Cream, Desserts",4.4,149,350.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+9135,Via Milano,Sarjapur Road,Sarjapur Road,East,Casual Dining,"Salad, Italian, Desserts, Pizza",4.6,142,1500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+9466,Madurai Idly Shop,Whitefield,Whitefield,East,Quick Bites,South Indian,2.9,141,200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2979,Mahjong Room - WelcomHotel Bengaluru,Richmond Road,Richmond Road,Central,Casual Dining,Chinese,4.47,136,1200.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7122,Global Flavors,Banaswadi,Banaswadi,East,Casual Dining,"North Indian, Fast Food, Beverages",3.5,135,1000.0,1,1,0,2,"Mid-range, poorly rated, unnoticed",2,-1,DBSCAN noise
+1613,Bengaluru Cafe,Jayanagar,Jayanagar,South,Quick Bites,South Indian,4.45,135,150.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8343,Baluchi - The Lalit Ashok Bangalore,Seshadripuram,Seshadripuram,Central,Fine Dining,"North Indian, Kashmiri, Mughlai",4.0,134,3700.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6146,Chai Days,Indiranagar,Indiranagar,East,Cafe,"Cafe, Tea, Beverages, Fast Food",4.46,134,200.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2081,Bhagini,Bellandur,Bellandur,East,Casual Dining,"Andhra, South Indian, Chinese, North Indian",2.3,132,800.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+7443,Calcutta Victoria Chat House,Banaswadi,Banaswadi,East,Quick Bites,"Fast Food, Street Food",2.8,132,200.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2529,Srinidhi Sagar Food Line,Indiranagar,Indiranagar,East,Quick Bites,"South Indian, North Indian, Chinese",3.7,131,40.0,1,0,0,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+8282,Holige Mane,Malleshwaram,Malleshwaram,North,Quick Bites,South Indian,4.25,128,100.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+6701,Le Cirque Signature - The Leela Palace,Old Airport Road,Old Airport Road,East,Fine Dining,"French, Italian",4.3,128,6000.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2260,Chez Nous - Novotel,Marathahalli,Marathahalli,East,Lounge,"European, French, North Indian",3.9,125,2500.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+303,Ruchi's Corner,Banashankari,Banashankari,South,Quick Bites,Fast Food,2.7,123,200.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2305,South Parade - The Chancery Hotel,Lavelle Road,Lavelle Road,Central,Casual Dining,"North Indian, Continental, Chinese",3.1,123,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+1650,BISO - Citrus Hotels,Bellandur,Bellandur,East,Casual Dining,"North Indian, Italian, Chinese, Asian",3.0,120,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+7103,Bhagini,Banaswadi,Banaswadi,East,Casual Dining,"Andhra, South Indian, Chinese, North Indian",2.3,120,800.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3162,Paprica,Marathahalli,Marathahalli,East,Casual Dining,"North Indian, Chinese",2.6,118,1200.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+4954,Drava,Koramangala 5th Block,Koramangala,South,Lounge,"Pizza, Continental, North Indian, Asian",4.38,118,1500.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2319,Woody's,Richmond Road,Richmond Road,Central,Casual Dining,"Chinese, South Indian, North Indian",2.3,118,650.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6609,Haute,Indiranagar,Indiranagar,East,Casual Dining,"Continental, European, Asian, Seafood, Spanish",4.35,117,1200.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+838,Wangs Kitchen,Bannerghatta Road,Bannerghatta Road,South,Casual Dining,Chinese,2.97,116,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+5642,Wangs Kitchen,Frazer Town,Frazer Town,North,Casual Dining,Chinese,3.1,113,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+7850,Malleshwaram Dosa Corner,Malleshwaram,Malleshwaram,North,Quick Bites,South Indian,4.4,109,120.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2214,BG's Poolside Bar & Grill,Bellandur,Bellandur,East,Casual Dining,"Mediterranean, Italian, Mexican",4.1,109,1700.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6704,Library Bar - The Leela Palace,Old Airport Road,Old Airport Road,East,Lounge,Finger Food,3.9,109,3000.0,0,0,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7492,Srinidhi Sagar Deluxe,Domlur,Domlur,East,Quick Bites,"South Indian, North Indian, Chinese",3.6,108,40.0,1,0,0,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+9045,Chord Road Resto-Bar,Rajajinagar,Rajajinagar,West,Casual Dining,"North Indian, South Indian, Chinese",3.2,97,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+1321,Coconut Grove,JP Nagar,JP Nagar,South,Casual Dining,"South Indian, Chettinad, Kerala, Seafood",3.38,97,1100.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+5885,Idli & Dosa Cafe,HSR,HSR,South,Quick Bites,South Indian,2.6,91,200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+1105,Tandoor Hut,Bannerghatta Road,Bannerghatta Road,South,Casual Dining,"North Indian, Chinese",2.2,90,750.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+6830,Kaapi Kuteera,Kanakapura Road,Kanakapura Road,South,Quick Bites,South Indian,3.5,86,100.0,1,0,0,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+9245,Punjab Bistro,Whitefield,Whitefield,East,Casual Dining,North Indian,4.2,84,1500.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6122,China Bistro & Lounge,Indiranagar,Indiranagar,East,Casual Dining,"Asian, Chinese, Thai, Korean",4.4,83,1600.0,1,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3161,Southern Spice,Whitefield,Whitefield,East,Casual Dining,South Indian,3.0,83,1200.0,0,1,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+9448,Estia - Aloft Hotel,Whitefield,Whitefield,East,Casual Dining,Mediterranean,4.1,79,1600.0,0,1,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5218,Goli Vada Pav No. 1,Electronic City,Electronic City,South,Quick Bites,Street Food,2.9,78,150.0,1,0,0,0,"Budget, poorly rated, unnoticed",3,-1,DBSCAN noise
+7635,Crunch Pizzas,Koramangala 1st Block,Koramangala,South,Quick Bites,"Italian, Pizza",2.35,77,600.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+4201,Mr. Meetharam,HSR,HSR,South,Unknown,"Mithai, Street Food",2.8,75,150.0,1,0,0,0,"Budget, poorly rated, unnoticed",3,-1,DBSCAN noise
+5800,Spice It - Ibis Hotel,Bommanahalli,Bommanahalli,South,Casual Dining,"Asian, Continental, European, Fast Food, North Indian, Mughlai, South Indian",3.0,74,1200.0,0,1,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+2656,GMT - Gelateria Montecatini Terme,Lavelle Road,Lavelle Road,Central,Quick Bites,"Desserts, Ice Cream",4.4,69,300.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+9429,Infinity - The Zuri,Whitefield,Whitefield,East,Fine Dining,"North Indian, Continental, Chinese",3.8,67,2700.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4849,Choco Cheese,BTM,BTM,South,Dessert Parlor,"Desserts, Beverages",4.4,63,300.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8404,The Mint Resto Bar,Marathahalli,Marathahalli,East,Casual Dining,"North Indian, Chinese, Andhra",2.6,62,1000.0,0,1,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+6621,Pot-O-Noodles,Indiranagar,Indiranagar,East,Casual Dining,"Chinese, Asian, Japanese",4.5,60,800.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+8257,Fabelle Chocolate Boutique - ITC Windsor,Sankey Road,Sankey Road,Central,Dessert Parlor,"Desserts, Ice Cream, Beverages",4.2,59,1250.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5377,Green Family Bar & Restaurant,Electronic City,Electronic City,South,Casual Dining,"North Indian, Chinese, Andhra",3.0,57,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+2991,Indian Durbar - Conrad Bengaluru,Ulsoor,Ulsoor,Central,Fine Dining,North Indian,3.8,57,3000.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3018,Atomic Lab,Lavelle Road,Lavelle Road,Central,Casual Dining,"Asian, North Indian, Continental",3.5,56,1800.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",2,-1,DBSCAN noise
+1323,Turquoise,JP Nagar,JP Nagar,South,Lounge,North Indian,2.8,56,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+2688,Roll Junction,Cunningham Road,Cunningham Road,Central,Quick Bites,"Fast Food, Rolls",2.9,56,150.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+5293,Wangs Kitchen,Electronic City,Electronic City,South,Takeaway,Chinese,2.5,55,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+4072,Chaiwala,Koramangala 1st Block,Koramangala,South,Quick Bites,Fast Food,3.1,54,100.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+3198,Polar Bear,"Varthur Main Road, Whitefield",Whitefield,East,Takeaway,"Desserts, Ice Cream",4.5,53,300.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8594,Malties - Radisson Blu,Marathahalli,Marathahalli,East,Lounge,"Continental, Fast Food",4.3,53,4500.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+5142,Bamboo Shades,Electronic City,Electronic City,South,Casual Dining,"Charcoal Chicken, Chinese, North Indian, Juices, Desserts, Seafood, South Indian",2.8,48,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+5647,American Bites,Kalyan Nagar,Kalyan Nagar,North,Quick Bites,"Fast Food, Burger, Pizza",2.4,48,450.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3040,Taste Of Kerala,Residency Road,Residency Road,Central,Casual Dining,"Kerala, Seafood",2.23,48,600.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+2324,24 Carats - The Capitol,Cunningham Road,Cunningham Road,Central,Casual Dining,"Asian, Continental",3.1,46,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+6132,Avanti Indian Barbeque & Grill,Domlur,Domlur,East,Casual Dining,North Indian,3.4,46,1100.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+8825,BOX8- Desi Meals,New BEL Road,New BEL Road,North,Takeaway,"North Indian, Mughlai, Fast Food",4.4,44,500.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+3108,The Whiskey Bar,Race Course Road,Race Course Road,Central,Bar,"Finger Food, North Indian",3.7,44,2800.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7533,Wild Thyme Restaurant,Koramangala 5th Block,Koramangala,South,Casual Dining,"Chinese, Continental, North Indian, Italian, Seafood",4.46,44,800.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+518,The Pavillion,JP Nagar,JP Nagar,South,Casual Dining,"North Indian, Continental, South Indian, Chinese",2.73,43,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+8326,Empire Juice Shop,Malleshwaram,Malleshwaram,North,Beverage Shop,Juices,2.75,43,150.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+3104,Fish Factory-Citrus Hotel,Cunningham Road,Cunningham Road,Central,Fine Dining,Seafood,3.9,40,2600.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+4984,The Underground Gastropub,Koramangala 5th Block,Koramangala,South,Pub,Finger Food,3.0,39,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+6836,Wangs Kitchen,JP Nagar,JP Nagar,South,Casual Dining,Chinese,2.8,39,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+2993,Fuel Resto Bar,Richmond Road,Richmond Road,Central,Bar,"Finger Food, Mediterranean, North Indian",4.2,38,2000.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+7014,Chickpet Donne Biriyani Mane,Nagawara,Nagawara,North,Quick Bites,"Biryani, South Indian, Kebab",2.7,37,150.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+2931,MoXa Bistro,Brigade Road,Brigade Road,Central,Casual Dining,"Continental, Italian, North Indian, Pizza",3.9,36,1500.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+3626,Aashish Foods,Brookefield,Brookefield,East,Quick Bites,North Indian,2.7,35,150.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+217,The Chaat Shop,Basavanagudi,Basavanagudi,South,Quick Bites,Fast Food,2.5,35,200.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+7651,Mojo Pizza - 2X Toppings,BTM,BTM,South,Quick Bites,Pizza,4.3,34,600.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2181,Helloo Delhi,Sarjapur Road,Sarjapur Road,East,Unknown,North Indian,3.2,34,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+7779,Sports Bar - Le Meridien,Sankey Road,Sankey Road,Central,Lounge,Finger Food,3.7,33,2500.0,0,0,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+1326,Nandi Bidadi Thatte Idli,JP Nagar,JP Nagar,South,Quick Bites,South Indian,2.9,33,100.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+278,Chai Kraft,Jayanagar,Jayanagar,South,Beverage Shop,"Beverages, Tea",4.1,32,100.0,1,0,1,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+5900,The Baker's,HSR,HSR,South,Bakery,"Bakery, Fast Food",2.4,32,500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+3160,HIGH SKY,Whitefield,Whitefield,East,Casual Dining,"Continental, North Indian, Chinese, Arabian",3.34,32,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+2313,Nithyothsav - Hotel Ramanashree,MG Road,MG Road,Central,Casual Dining,"North Indian, Chinese",3.0,31,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+2312,Tiffanys,Shanti Nagar,Shanti Nagar,Central,Casual Dining,"Continental, Italian, Chinese",2.9,31,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+103,K27 - The Pub,Banashankari,Banashankari,South,Bar,"Chinese, North Indian",3.1,30,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+3172,Cafe Coffee Day,Brookefield,Brookefield,East,Cafe,"Cafe, Fast Food",2.3,30,900.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+9099,Mojo Pizza - 2X Toppings,Residency Road,Residency Road,Central,Takeaway,Pizza,4.3,30,600.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+2311,The Hub - Ibis Hotel,Richmond Road,Richmond Road,Central,Bar,"Finger Food, Fast Food, Continental",3.5,29,2200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",2,-1,DBSCAN noise
+3012,The Lobby Lounge - The Ritz-Carlton,Residency Road,Residency Road,Central,Casual Dining,Beverages,4.1,29,2000.0,0,0,1,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2820,Mojo Pizza - 2X Toppings,Residency Road,Residency Road,Central,Takeaway,Pizza,4.3,28,600.0,0,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+8598,Chiller's Nation - Iris Inn,Marathahalli,Marathahalli,East,Bar,"North Indian, Continental, Italian",2.9,27,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+6499,Knight Riders,Domlur,Domlur,East,Bar,"Chinese, European",2.4,25,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+924,Kolkata Famous Kati Rolls,Bannerghatta Road,Bannerghatta Road,South,Takeaway,"Fast Food, Rolls",3.1,25,100.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+7612,Primal,Koramangala 6th Block,Koramangala,South,Bar,"Finger Food, Continental",3.0,25,2300.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+2374,The Lobby Brew - Conrad Bengaluru,Ulsoor,Ulsoor,Central,Cafe,"Cafe, North Indian, Fast Food",3.8,25,2200.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2932,Flame Pub & Restaurant - Brigade Garden,Brigade Road,Brigade Road,Central,Bar,"North Indian, South Indian, Continental, Chinese",2.9,24,1900.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+2989,My Space - WelcomeHotel Bengaluru,Richmond Road,Richmond Road,Central,Bar,Finger Food,3.9,23,2000.0,0,0,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+2503,Wangs Kitchen,Ulsoor,Ulsoor,Central,Casual Dining,Chinese,2.5,22,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+5407,Bengaluru Restaurant,Electronic City,Electronic City,South,Casual Dining,"North Indian, South Indian",3.1,22,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+3876,Slounge - Lemon Tree Hotel,Whitefield,Whitefield,East,Lounge,Finger Food,3.9,21,1500.0,0,1,0,1,"Premium, highly rated, popular",2,-1,DBSCAN noise
+6060,Ice Cream Buggy,South Bangalore,South Bangalore,South,Food Truck,Ice Cream,3.1,21,100.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+8600,Pelican,Marathahalli,Marathahalli,East,Pub,"North Indian, Chinese",3.4,20,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+5139,It's Mirchi - Ramee Guestline Hotels,Electronic City,Electronic City,South,Casual Dining,"Continental, Mughlai",3.1,19,1600.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+6366,Sri Ganesha Fruit Juice Centre,Domlur,Domlur,East,Beverage Shop,"Juices, Beverages",3.2,18,100.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+7705,La Boulangerie - Le Meridien,Sankey Road,Sankey Road,Central,Fine Dining,"Continental, Chinese, North Indian",3.7,18,2000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",2,-1,DBSCAN noise
+5535,3rd Innings,Electronic City,Electronic City,South,Casual Dining,"Burger, Italian, North Indian, Chinese",3.0,17,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+39,Maruthi Davangere Benne Dosa,Banashankari,Banashankari,South,Quick Bites,South Indian,4.0,17,150.0,1,0,1,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+7598,The Tiffin Express,Koramangala 4th Block,Koramangala,South,Quick Bites,South Indian,2.6,16,250.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+9444,Blend - Royal Orchid Suites,Whitefield,Whitefield,East,Casual Dining,"Chinese, North Indian",3.4,16,1300.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+4582,Invitation Bar & Restaurant,BTM,BTM,South,Bar,North Indian,3.0,16,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+3480,Lashiwalla,Marathahalli,Marathahalli,East,Beverage Shop,"Beverages, Juices",2.85,16,100.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+2772,Aathithya,Infantry Road,Infantry Road,Central,Casual Dining,"North Indian, Continental, Chinese",3.1,16,1100.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+3042,Amnesia - The Poolside Bar,Residency Road,Residency Road,Central,Casual Dining,"North Indian, Chinese, Continental",3.7,15,2000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",2,-1,DBSCAN noise
+4878,Sri Annapoorna Bajji Center,Jayanagar,Jayanagar,South,Sweet Shop,"Mithai, Street Food",3.9,15,100.0,0,0,0,0,"Budget, poorly rated, unnoticed",0,-1,DBSCAN noise
+3109,Nostradamus Bar & Lounge,Cunningham Road,Cunningham Road,Central,Bar,"North Indian, South Indian, Chinese, Continental",3.6,14,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",0,-1,DBSCAN noise
+9497,The Nest - The Den Bengaluru,"ITPL Main Road, Whitefield",Whitefield,East,Bar,"Finger Food, North Indian, Continental",3.4,13,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+3045,Grill 99 - The Ritz-Carlton,Residency Road,Residency Road,Central,Fine Dining,"Steak, Mediterranean, Grill",3.45,12,4000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",2,-1,DBSCAN noise; Expensive but poorly rated
+7390,H3O,Kammanahalli,Kammanahalli,North,Bar,"North Indian, Chinese",3.1,12,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+1649,Monsoon,Bellandur,Bellandur,East,Food Court,Continental,2.8,12,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+3037,Luscious - St. Mark's Hotel,St. Marks Road,St. Marks Road,Central,Lounge,"North Indian, Continental",3.7,11,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",0,-1,DBSCAN noise
+6637,H3O,Indiranagar,Indiranagar,East,Bar,"North Indian, Chinese",3.1,11,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+2379,Savera Cafe,Shivajinagar,Shivajinagar,Central,Cafe,Cafe,3.65,11,50.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+4945,Gallop Bar - Davanam Sarovar Portico Suites,Koramangala 2nd Block,Koramangala,South,Lounge,Finger Food,3.5,11,1600.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+9044,Kava Bar - Fairfield By Marriott,Rajajinagar,Rajajinagar,West,Bar,"North Indian, South Indian, Continental",3.4,10,1800.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+6633,Take 5,Indiranagar,Indiranagar,East,Lounge,"Chinese, Continental, Steak",3.5,10,1300.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,-1,DBSCAN noise
+5541,Envy,Electronic City,Electronic City,South,Lounge,Finger Food,3.4,9,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+5474,Hide Out - The Golden Tulip,Electronic City,Electronic City,South,Bar,Finger Food,3.2,9,1800.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise; Expensive but poorly rated
+8980,Trofi N Treats,Vijay Nagar,Vijay Nagar,West,Food Court,"Rolls, Fast Food",2.8,9,250.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+8844,H3O,New BEL Road,New BEL Road,North,Casual Dining,"North Indian, Chinese",3.2,9,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+1060,Chaatimes,BTM,BTM,South,Quick Bites,"Street Food, Fast Food",4.17,9,250.0,1,0,1,3,"Budget, average, known",0,-1,DBSCAN noise
+9443,BBCUE Whitefield,Whitefield,Whitefield,East,Fine Dining,Continental,3.5,8,2400.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,-1,DBSCAN noise
+5361,Indian Kitchen - Hotel Presidency,Electronic City,Electronic City,South,Casual Dining,"Fast Food, North Indian, Finger Food",3.0,8,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+1744,Sri Vishnu Grand & Garden Restaurant,Sarjapur Road,Sarjapur Road,East,Quick Bites,"South Indian, North Indian, Fast Food",3.8,8,500.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+6718,Goofy's,Indiranagar,Indiranagar,East,Pub,Finger Food,3.2,8,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+9088,Wood Rose,Seshadripuram,Seshadripuram,Central,Lounge,"North Indian, Chinese, Continental",3.3,8,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+9447,Grab n Go - Aloft Hotel,Whitefield,Whitefield,East,Casual Dining,"American, Fast Food",3.1,7,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+5524,Strada Kitchen & Bar,Electronic City,Electronic City,South,Casual Dining,"Chinese, North Indian, South Indian",3.4,7,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+5532,90's Beer Cafe - Hotel Millennium Plaza,Electronic City,Electronic City,South,Bar,Finger Food,3.0,7,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+7611,Samavar,Koramangala 6th Block,Koramangala,South,Casual Dining,"North Indian, South Indian, Chinese, Continental, Italian",3.4,7,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+3046,Green Paprika,Church Street,Church Street,Central,Casual Dining,"North Indian, South Indian, Continental",3.3,7,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+2750,Monsoon Express,MG Road,MG Road,Central,Takeaway,"Continental, Thai, North Indian",3.4,7,1600.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+9092,Dosa Cafe,Vijay Nagar,Vijay Nagar,West,Quick Bites,South Indian,3.4,7,80.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+5424,NH7 Resto Pub,Electronic City,Electronic City,South,Casual Dining,"Andhra, Chinese, Continental",3.3,6,1400.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",3,0,Expensive but poorly rated
+5533,Nirvana Bar - Manipal County,Electronic City,Electronic City,South,Bar,Finger Food,3.3,6,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+7887,Tasty Box,Yeshwantpur,Yeshwantpur,North,Quick Bites,"North Indian, South Indian, Arabian, Mughlai, Chinese, Biryani",2.9,6,250.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+2653,ROYCE' Chocolate,MG Road,MG Road,Central,Confectionery,Desserts,3.45,6,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+2220,White Horse Pulse Resto Bar,Bellandur,Bellandur,East,Pub,"North Indian, Chinese",3.3,6,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+3747,Chef Delicacies,"Varthur Main Road, Whitefield",Whitefield,East,Takeaway,"Kebab, Rolls, Charcoal Chicken",2.7,6,400.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",1,-1,DBSCAN noise
+3754,Cafe Noir,Whitefield,Whitefield,East,Casual Dining,"European, French, Salad",3.4,5,1500.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+7680,BrotherÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bar & Kitchen,BTM,BTM,South,Casual Dining,"Chinese, North Indian",3.4,5,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+5540,Bollywood Grill,Electronic City,Electronic City,South,Casual Dining,North Indian,3.4,5,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+4920,Nellore Dosa Camp,BTM,BTM,South,Quick Bites,"Andhra, South Indian",3.3,5,70.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+4890,Brother?s Bar & Kitchen,BTM,BTM,South,Casual Dining,"Chinese, North Indian",3.4,5,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+5546,Flavors,Electronic City,Electronic City,South,Casual Dining,"North Indian, South Indian, Chinese, Continental",3.4,5,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+7754,Strawberry Moon,Race Course Road,Race Course Road,Central,Casual Dining,Finger Food,3.4,5,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+5545,Spice,Electronic City,Electronic City,South,Casual Dining,"Andhra, Chinese, North Indian",3.3,4,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+9046,H3O,Rajajinagar,Rajajinagar,West,Casual Dining,"North Indian, Chinese",3.2,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+8489,Godhavari,Marathahalli,Marathahalli,East,Casual Dining,"Seafood, Andhra",3.3,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+1155,Special Biriyani,JP Nagar,JP Nagar,South,Quick Bites,"North Indian, Biryani",2.9,4,300.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+3023,The RoofTop,St. Marks Road,St. Marks Road,Central,Casual Dining,"North Indian, Asian, Mediterranean",3.3,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+5687,NTR Cafe,Kammanahalli,Kammanahalli,North,Quick Bites,"Chinese, Fast Food",2.9,4,100.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+5026,H3O,Koramangala 4th Block,Koramangala,South,Bar,"North Indian, Chinese",3.3,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+3041,The Charlton Bar,Residency Road,Residency Road,Central,Bar,"Chinese, North Indian",3.3,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+9148,Chaska Box,Sarjapur Road,Sarjapur Road,East,Takeaway,"Bakery, Desserts",3.3,4,1400.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+7788,Imperial Room,Majestic,Majestic,Central,Casual Dining,"North Indian, Chinese",3.2,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+8172,Grub by 3G's,Malleshwaram,Malleshwaram,North,Casual Dining,"Continental, North Indian",3.3,4,1500.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+7673,BOX8- Desi Meals,Indiranagar,Indiranagar,East,Takeaway,"North Indian, Mughlai, Fast Food",3.8,4,500.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+2936,The Chevron Brigade,Brigade Road,Brigade Road,Central,Casual Dining,"Fast Food, Biryani, Chinese, Seafood",3.3,4,1200.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+7766,Status Bar& Restaurant,Majestic,Majestic,Central,Bar,"Chinese, Finger Food",3.3,4,1000.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,0,Expensive but poorly rated
+8369,Great Moments - Hotel Bangalore International,Race Course Road,Race Course Road,Central,Casual Dining,Finger Food,3.2,2,1100.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,-1,DBSCAN noise; Expensive but poorly rated
+2606,Height's Cafe - Hotel Bangalore International,Race Course Road,Race Course Road,Central,Casual Dining,"Continental, South Indian",3.2,2,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",1,-1,DBSCAN noise; Expensive but poorly rated
+5008,Tasty Bites,JP Nagar,JP Nagar,South,Quick Bites,North Indian,3.8,1,325.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+515,Crave Bit Cafe,JP Nagar,JP Nagar,South,Cafe,Cafe,3.7,0,600.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1432,SLV Ragigudda,Jayanagar,Jayanagar,South,Quick Bites,"South Indian, Indian",3.7,0,400.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+4964,Baba Chatkora,JP Nagar,JP Nagar,South,Casual Dining,North Indian,3.7,0,1000.0,1,0,0,2,"Mid-range, poorly rated, unnoticed",1,-1,DBSCAN noise
+4689,Ilyazsab Shawarma Cafe,Jayanagar,Jayanagar,South,Quick Bites,"Fast Food, Rolls",3.6,0,300.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+6808,Aramane Donne Biryani,JP Nagar,JP Nagar,South,Quick Bites,"Biryani, Fast Food",3.7,0,300.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+6811,Peat & Fire,JP Nagar,JP Nagar,South,Quick Bites,"North Indian, Maharashtrian",3.8,0,700.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+6792,Lambsters,Jayanagar,Jayanagar,South,Casual Dining,"North Indian, Chinese",3.6,0,700.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+965,BEIR,Bannerghatta Road,Bannerghatta Road,South,Casual Dining,"Mexican, American",3.6,0,800.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1021,The Paratha Stories,JP Nagar,JP Nagar,South,Quick Bites,North Indian,3.9,0,250.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1159,Desi Aahar,BTM,BTM,South,Quick Bites,"North Indian, Chinese, Seafood",3.3,0,400.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1167,Wudfyr,JP Nagar,JP Nagar,South,Quick Bites,"Fast Food, Italian, North Indian, Steak",3.8,0,700.0,1,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1163,Nourich,JP Nagar,JP Nagar,South,Casual Dining,"Continental, Chinese, North Indian, Asian, Healthy Food, Fast Food",3.9,0,800.0,1,1,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1192,Sri Brahmi Kuteera,JP Nagar,JP Nagar,South,Quick Bites,South Indian,3.4,0,150.0,0,0,0,0,"Budget, poorly rated, unnoticed",1,-1,DBSCAN noise
+1173,The Punjabi Rasoi,JP Nagar,JP Nagar,South,Casual Dining,North Indian,3.4,0,800.0,0,0,0,2,"Mid-range, poorly rated, unnoticed",1,-1,DBSCAN noise

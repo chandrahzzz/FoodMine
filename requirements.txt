@@ -1,0 +1,13 @@
+pandas==3.0.6
+numpy==2.4.6
+scikit-learn==1.9.1
+mlxtend==0.25.0
+pgmpy==1.1.2
+networkx==3.6.1
+matplotlib==3.11.2
+altair==6.3.0
+streamlit==1.66.0
+joblib==1.6.0
+kagglehub==1.0.2
+nbformat==5.11.1
+jupyter

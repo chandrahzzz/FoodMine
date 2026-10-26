@@ -1,0 +1,4 @@
+method,clusters,noise_points,silhouette,sse_or_cost
+K-Means,4,0,0.2968,10185.402
+K-Medoids (CLARA),4,0,0.3098,10439.0016
+DBSCAN,6,303,-0.0667,

@@ -1,0 +1,813 @@
+itemset,length,support
+TableBooking=No,1,0.9002420288330001
+OnlineOrder=Yes,1,0.6194885825528781
+"OnlineOrder=Yes, TableBooking=No",2,0.5669788487845944
+Service=Dine-out,1,0.531095443544144
+Cost=Low,1,0.5281490055771861
+"Cost=Low, TableBooking=No",2,0.5267810165210987
+"Service=Dine-out, TableBooking=No",2,0.49331789961064926
+Rating=Average,1,0.4361780490371462
+Zone=South,1,0.4189203409449648
+Cuisine=North Indian,1,0.41429022413974537
+"Rating=Average, TableBooking=No",2,0.41155424602757024
+"TableBooking=No, Zone=South",2,0.38387877512364516
+OnlineOrder=No,1,0.38051141744712197
+Type=Quick Bites,1,0.3803009575923393
+"TableBooking=No, Type=Quick Bites",2,0.37830158897190364
+"Cuisine=North Indian, TableBooking=No",2,0.35841313269493846
+Cost=Medium,1,0.3463116910449332
+Rating=Poor,1,0.34283910344101864
+"Rating=Poor, TableBooking=No",2,0.34041881511101757
+Popularity=Unnoticed,1,0.336946227507103
+"Popularity=Unnoticed, TableBooking=No",2,0.33568346837840685
+"OnlineOrder=No, TableBooking=No",2,0.33326318004840577
+Popularity=Popular,1,0.3325265705566663
+Popularity=Known,1,0.33052720193623064
+"Cost=Low, OnlineOrder=Yes",2,0.3245290960749237
+"Cost=Low, OnlineOrder=Yes, TableBooking=No",3,0.32337156687361884
+"Cost=Medium, TableBooking=No",2,0.32105650847100914
+"OnlineOrder=Yes, Service=Dine-out",2,0.31853099021361675
+"Popularity=Known, TableBooking=No",2,0.3172682310849205
+"Cost=Low, Type=Quick Bites",2,0.3157950121014417
+"Cost=Low, TableBooking=No, Type=Quick Bites",3,0.3146374829001368
+"Service=Dine-out, Type=Quick Bites",2,0.3102178259497001
+"Service=Dine-out, TableBooking=No, Type=Quick Bites",3,0.3089550668210039
+Zone=East,1,0.30664000841839417
+Cuisine=Chinese,1,0.30421972008839315
+"OnlineOrder=Yes, Service=Dine-out, TableBooking=No",3,0.29580132589708513
+"Cost=Low, Service=Dine-out",2,0.2928548879301273
+"Cost=Low, Service=Dine-out, TableBooking=No",3,0.29190781858360515
+"OnlineOrder=Yes, Rating=Average",2,0.28927707039882145
+"OnlineOrder=Yes, Rating=Average, TableBooking=No",3,0.2755971798379459
+"TableBooking=No, Zone=East",2,0.2740187309270757
+"Cuisine=North Indian, Service=Dine-out",2,0.2722298221614227
+"Cuisine=Chinese, TableBooking=No",2,0.27107229296011787
+"OnlineOrder=Yes, Zone=South",2,0.2703356834683784
+"Cost=Low, Service=Dine-out, Type=Quick Bites",3,0.2589708513101126
+"Cuisine=North Indian, OnlineOrder=Yes",2,0.257287172471851
+"Cuisine=North Indian, Service=Dine-out, TableBooking=No",3,0.25086814690097864
+"OnlineOrder=Yes, TableBooking=No, Zone=South",3,0.24865831842576028
+"Cost=Low, Rating=Average",2,0.24813216878880354
+"Cost=Low, Rating=Average, TableBooking=No",3,0.24729032936967274
+"Popularity=Popular, TableBooking=No",2,0.24729032936967274
+"Cost=Low, Popularity=Unnoticed",2,0.24371251183836684
+"Cost=Low, Popularity=Unnoticed, TableBooking=No",3,0.24360728191097547
+"Cost=Medium, OnlineOrder=Yes",2,0.24360728191097547
+"OnlineOrder=Yes, Type=Quick Bites",2,0.24150268336314848
+Type=Casual Dining,1,0.23992423445227823
+"OnlineOrder=Yes, TableBooking=No, Type=Quick Bites",3,0.23960854467010417
+"Rating=Average, Service=Dine-out",2,0.2389771651057561
+"Cost=Low, Zone=South",2,0.23813532568662527
+"Cost=Low, TableBooking=No, Zone=South",3,0.23760917604966852
+"OnlineOrder=Yes, Popularity=Popular",2,0.23739871619488584
+"Cuisine=Chinese, Cuisine=North Indian",2,0.23182153004314426
+"Cuisine=North Indian, OnlineOrder=Yes, TableBooking=No",3,0.22940124171314322
+"Rating=Average, Service=Dine-out, TableBooking=No",3,0.22824371251183836
+"Service=Dine-out, Zone=South",2,0.22624434389140272
+"Cost=Medium, OnlineOrder=Yes, TableBooking=No",3,0.223929285488793
+Rating=Good,1,0.2209828475218352
+"OnlineOrder=Yes, Popularity=Known",2,0.21908870882879092
+"Cuisine=Chinese, Service=Dine-out",2,0.21582658107965905
+"Cost=Low, Rating=Poor",2,0.21519520151531096
+"Cost=Low, Rating=Poor, TableBooking=No",3,0.21498474166052825
+"Popularity=Unnoticed, Rating=Poor",2,0.2142481321687888
+"Popularity=Unnoticed, Rating=Poor, TableBooking=No",3,0.21393244238661474
+"OnlineOrder=Yes, Popularity=Known, TableBooking=No",3,0.2136167526044407
+"Service=Dine-out, TableBooking=No, Zone=South",3,0.21330106282226666
+"OnlineOrder=No, Service=Dine-out",2,0.2125644533305272
+"Cuisine=Chinese, Cuisine=North Indian, TableBooking=No",3,0.2079343365253078
+"Rating=Poor, Service=Dine-out",2,0.20509312848574135
+Service=Delivery,1,0.20488266863095864
+"Rating=Poor, Service=Dine-out, TableBooking=No",3,0.20372513942965378
+"Cost=Low, OnlineOrder=No",2,0.20361990950226244
+"Cost=Low, OnlineOrder=No, TableBooking=No",3,0.20340944964747976
+"Service=Delivery, TableBooking=No",2,0.2020414605913922
+"Popularity=Known, Rating=Average",2,0.20151531095443545
+"Cuisine=Chinese, Service=Dine-out, TableBooking=No",3,0.2011996211722614
+"OnlineOrder=No, Service=Dine-out, TableBooking=No",3,0.19751657371356413
+"Cost=Medium, Service=Dine-out",2,0.19583289487530253
+"OnlineOrder=Yes, Zone=East",2,0.19393875618225823
+"Cuisine=Chinese, OnlineOrder=Yes",2,0.19383352625486688
+"Popularity=Known, Rating=Average, TableBooking=No",3,0.19278122698095337
+"OnlineOrder=Yes, Popularity=Popular, TableBooking=No",3,0.19109754814269178
+"Cost=Low, OnlineOrder=Yes, Type=Quick Bites",3,0.19067662843312638
+"Rating=Average, Zone=South",2,0.19036093865095233
+"Cost=Low, Popularity=Known",2,0.18972955908660424
+"OnlineOrder=Yes, Rating=Poor",2,0.1894138693044302
+"Cost=Low, Popularity=Known, TableBooking=No",3,0.1885720298852994
+"OnlineOrder=Yes, Rating=Poor, TableBooking=No",3,0.18783542039355994
+"Popularity=Unnoticed, Service=Dine-out",2,0.18604651162790697
+"Popularity=Unnoticed, Service=Dine-out, TableBooking=No",3,0.18520467220877618
+"OnlineOrder=Yes, Service=Dine-out, Type=Quick Bites",3,0.18478375249921078
+"Cuisine=North Indian, Rating=Average",2,0.18320530358834053
+"Cost=Medium, Service=Dine-out, TableBooking=No",3,0.18204777438703568
+"Rating=Average, TableBooking=No, Zone=South",3,0.18089024518573082
+"Cost=Medium, Cuisine=North Indian",2,0.1802588656213827
+"Service=Dine-out, Type=Casual Dining",2,0.18015363569399137
+"Popularity=Popular, Rating=Good",2,0.17994317583920866
+"TableBooking=No, Type=Casual Dining",2,0.17857518678312112
+"OnlineOrder=Yes, TableBooking=No, Zone=East",3,0.17762811743659898
+"Rating=Average, Type=Quick Bites",2,0.17531305903398928
+"Cuisine=North Indian, Zone=South",2,0.17489213932442388
+Cuisine=South Indian,1,0.1747869093970325
+"Cuisine=Chinese, OnlineOrder=Yes, TableBooking=No",3,0.1743659896874671
+"Rating=Average, TableBooking=No, Type=Quick Bites",3,0.1743659896874671
+"OnlineOrder=No, Popularity=Unnoticed",2,0.1739450699779017
+"Popularity=Popular, Service=Dine-out",2,0.1735241502683363
+"OnlineOrder=No, Popularity=Unnoticed, TableBooking=No",3,0.17341892034094497
+Cuisine=Fast Food,1,0.17173524150268335
+"Popularity=Known, Service=Dine-out",2,0.17152478164790066
+"Cost=Low, Cuisine=North Indian",2,0.17110386193833527
+"OnlineOrder=Yes, Service=Delivery",2,0.17110386193833527
+"Cost=Low, Cuisine=North Indian, TableBooking=No",3,0.17026202251920447
+"Cuisine=North Indian, OnlineOrder=Yes, Service=Dine-out",3,0.1701567925918131
+"Type=Quick Bites, Zone=South",2,0.16942018310007367
+"Cuisine=Fast Food, TableBooking=No",2,0.1693149531726823
+"TableBooking=No, Type=Quick Bites, Zone=South",3,0.16857834368094285
+"OnlineOrder=Yes, Service=Delivery, TableBooking=No",3,0.16836788382616016
+"Cost=Medium, Cuisine=North Indian, TableBooking=No",3,0.16594759549615912
+"Service=Dine-out, Zone=East",2,0.16542144585920235
+"Popularity=Known, Service=Dine-out, TableBooking=No",3,0.16510575607702832
+"Cuisine=North Indian, Rating=Average, TableBooking=No",3,0.16479006629485426
+"Cost=Low, OnlineOrder=Yes, Rating=Average",3,0.1644743765126802
+"Cuisine=Chinese, Cuisine=North Indian, Service=Dine-out",3,0.16415868673050615
+"Cuisine=South Indian, TableBooking=No",2,0.16373776702094076
+"Rating=Poor, Type=Quick Bites",2,0.16352730716615804
+"Cost=Low, OnlineOrder=Yes, Service=Dine-out",3,0.16331684731137536
+"Rating=Poor, TableBooking=No, Type=Quick Bites",3,0.16331684731137536
+"OnlineOrder=Yes, Popularity=Unnoticed",2,0.1630011575292013
+"OnlineOrder=Yes, Popularity=Unnoticed, TableBooking=No",3,0.16226454803746185
+"Cuisine=North Indian, Type=Casual Dining",2,0.16163316847311376
+"Popularity=Unnoticed, Type=Quick Bites",2,0.16100178890876565
+"Popularity=Unnoticed, TableBooking=No, Type=Quick Bites",3,0.16079132905398294
+"Cuisine=North Indian, Type=Quick Bites",2,0.1600547195622435
+"OnlineOrder=Yes, Rating=Average, Service=Dine-out",3,0.15900242028833
+"Cuisine=North Indian, TableBooking=No, Type=Quick Bites",3,0.15889719036093866
+"Cost=Medium, Type=Casual Dining",2,0.1581605808691992
+"Cuisine=North Indian, OnlineOrder=No",2,0.15700305166789436
+"Cuisine=North Indian, Rating=Poor",2,0.1556350626118068
+"Cost=Low, Popularity=Unnoticed, Rating=Poor",3,0.15489845312006734
+"Cuisine=North Indian, Popularity=Popular",2,0.15447753341050194
+"Cuisine=North Indian, Rating=Poor, TableBooking=No",3,0.15374092391876248
+"OnlineOrder=No, Rating=Poor",2,0.15342523413658846
+"Cuisine=North Indian, TableBooking=No, Zone=South",3,0.15321477428180574
+"Cost=Medium, Rating=Average",2,0.152688624644849
+"OnlineOrder=No, Rating=Poor, TableBooking=No",3,0.15258339471745763
+"Service=Dine-out, TableBooking=No, Zone=East",3,0.1524781647900663
+"Cost=Low, Zone=East",2,0.15216247500789223
+"OnlineOrder=Yes, Type=Casual Dining",2,0.15153109544354415
+"Cost=Low, TableBooking=No, Zone=East",3,0.15153109544354415
+"Cost=Medium, Popularity=Popular",2,0.14984741660528253
+"Cost=Low, OnlineOrder=Yes, Zone=South",3,0.1497421866778912
+"Service=Dine-out, TableBooking=No, Type=Casual Dining",3,0.14921603704093445
+"OnlineOrder=No, Zone=South",2,0.14858465747658633
+"Rating=Good, TableBooking=No",2,0.14826896769441228
+"OnlineOrder=No, Rating=Average",2,0.14690097863832474
+"Cost=Low, Rating=Average, Type=Quick Bites",3,0.1465852888561507
+"Cuisine=Chinese, Cuisine=North Indian, OnlineOrder=Yes",3,0.1453225297274545
+"Rating=Average, Service=Dine-out, Type=Quick Bites",3,0.14437546038093232
+"Cost=Low, Popularity=Unnoticed, Type=Quick Bites",3,0.1440597705987583
+"Cost=Medium, Rating=Average, TableBooking=No",3,0.14332316110701884
+"Popularity=Unnoticed, Zone=South",2,0.1430074713248448
+"Popularity=Popular, Service=Dine-out, TableBooking=No",3,0.1430074713248448
+"Cost=Medium, Zone=South",2,0.14290224139745344
+"Popularity=Unnoticed, TableBooking=No, Zone=South",3,0.14227086183310533
+"Cost=Low, Type=Quick Bites, Zone=South",3,0.14195517205093128
+"OnlineOrder=Yes, Service=Dine-out, Zone=South",3,0.14153425234136588
+"Service=Dine-out, Type=Quick Bites, Zone=South",3,0.1409028727770178
+"OnlineOrder=Yes, Rating=Good",2,0.14079764284962643
+"Rating=Poor, Zone=South",2,0.14037672314006103
+"Popularity=Popular, Zone=South",2,0.14027149321266968
+"Rating=Poor, TableBooking=No, Zone=South",3,0.13932442386614755
+"Cuisine=North Indian, Service=Dine-out, Type=Quick Bites",3,0.13921919393875617
+"OnlineOrder=No, Type=Quick Bites",2,0.13879827422919078
+"Cost=Medium, Cuisine=Chinese",2,0.13869304430179943
+"Cost=Medium, TableBooking=No, Type=Casual Dining",3,0.13869304430179943
+"OnlineOrder=No, TableBooking=No, Type=Quick Bites",3,0.13869304430179943
+"Cuisine=North Indian, Zone=East",2,0.1381668946648427
+"Cost=Low, Popularity=Unnoticed, Service=Dine-out",3,0.13795643481005998
+Cuisine=Biryani,1,0.13785120488266864
+"Cost=Low, Rating=Poor, Type=Quick Bites",3,0.13774597495527727
+"Cuisine=Chinese, Rating=Average",2,0.13732505524571187
+"Cuisine=Chinese, OnlineOrder=Yes, Service=Dine-out",3,0.13690413553614647
+"OnlineOrder=No, Rating=Average, TableBooking=No",3,0.13595706618962433
+"Popularity=Known, Zone=South",2,0.13564137640745028
+"Popularity=Popular, Type=Casual Dining",2,0.13564137640745028
+"Popularity=Known, Type=Quick Bites",2,0.1354309165526676
+"OnlineOrder=No, TableBooking=No, Zone=South",3,0.13522045669788488
+Zone=North,1,0.13500999684310216
+"Rating=Poor, Service=Dine-out, Type=Quick Bites",3,0.13479953698831948
+"Cost=Low, Rating=Average, Service=Dine-out",3,0.13469430706092814
+"Cost=Medium, Service=Dine-out, Type=Casual Dining",3,0.13458907713353677
+"Popularity=Known, TableBooking=No, Type=Quick Bites",3,0.13437861727875408
+"Popularity=Unnoticed, Service=Dine-out, Type=Quick Bites",3,0.13437861727875408
+"Cuisine=North Indian, Popularity=Known",2,0.13385246764179734
+"Cost=Medium, OnlineOrder=Yes, Service=Dine-out",3,0.13364200778701463
+"OnlineOrder=Yes, Popularity=Known, Rating=Average",3,0.13322108807744923
+"Cuisine=South Indian, Service=Dine-out",2,0.13280016836788383
+"Cost=Low, OnlineOrder=Yes, Popularity=Known",3,0.13258970851310112
+"Cost=Low, Service=Dine-out, Zone=South",3,0.13216878880353572
+"OnlineOrder=Yes, Popularity=Popular, Service=Dine-out",3,0.13153740923918764
+"Popularity=Known, TableBooking=No, Zone=South",3,0.13132694938440492
+"OnlineOrder=Yes, Rating=Average, Zone=South",3,0.13132694938440492
+"Cuisine=Chinese, Type=Casual Dining",2,0.13122171945701358
+"Cost=Low, Rating=Poor, Service=Dine-out",3,0.13122171945701358
+"Cost=Low, Cuisine=North Indian, Type=Quick Bites",3,0.13059033989266547
+"Cost=Medium, TableBooking=No, Zone=South",3,0.13048510996527413
+"Cuisine=Chinese, Zone=South",2,0.13037988003788278
+"Cost=Low, OnlineOrder=No, Service=Dine-out",3,0.12953804061875196
+"Cuisine=Biryani, TableBooking=No",2,0.12932758076396927
+"Cost=Medium, Popularity=Popular, TableBooking=No",3,0.12932758076396927
+"Cuisine=North Indian, OnlineOrder=No, TableBooking=No",3,0.12901189098179522
+"Rating=Average, Zone=East",2,0.12880143112701253
+"Cost=Low, Service=Delivery",2,0.12838051141744714
+"Cost=Low, Service=Delivery, TableBooking=No",3,0.12827528149005576
+"Cuisine=South Indian, Service=Dine-out, TableBooking=No",3,0.12817005156266442
+"Cost=Medium, Cuisine=Chinese, TableBooking=No",3,0.1279595917078817
+"Cost=Low, Cuisine=North Indian, Service=Dine-out",3,0.12764390192570768
+"Cuisine=North Indian, Rating=Average, Service=Dine-out",3,0.12638114279701146
+"Cuisine=North Indian, Popularity=Unnoticed",2,0.12596022308744606
+"Cuisine=Chinese, Rating=Average, TableBooking=No",3,0.12564453330527203
+"Cuisine=North Indian, Popularity=Known, TableBooking=No",3,0.12564453330527203
+Cost=High,1,0.12553930337788066
+"Popularity=Unnoticed, Rating=Poor, Service=Dine-out",3,0.12543407345048932
+"OnlineOrder=No, Service=Dine-out, Type=Quick Bites",3,0.12543407345048932
+"Cost=Medium, Cuisine=North Indian, Service=Dine-out",3,0.1252236135957066
+"Cost=Low, OnlineOrder=No, Type=Quick Bites",3,0.12511838366831526
+"Cuisine=North Indian, Popularity=Unnoticed, TableBooking=No",3,0.12511838366831526
+"Cost=Low, OnlineOrder=No, Popularity=Unnoticed",3,0.12511838366831526
+"Cost=Low, Cuisine=Chinese",2,0.12448700410396717
+"Cuisine=North Indian, OnlineOrder=Yes, Rating=Average",3,0.12427654424918447
+"Cost=Low, Cuisine=Chinese, TableBooking=No",3,0.12417131432179312
+"TableBooking=No, Zone=North",2,0.12417131432179312
+"Cuisine=North Indian, TableBooking=No, Type=Casual Dining",3,0.12396085446701041
+"Cost=Medium, OnlineOrder=Yes, Popularity=Popular",3,0.12269809533831422
+"Cost=Low, Popularity=Known, Rating=Average",3,0.12111964642744397
+"Popularity=Unnoticed, Rating=Average",2,0.12111964642744397
+"OnlineOrder=Yes, Rating=Average, Type=Quick Bites",3,0.12080395664526991
+"Cuisine=North Indian, Service=Dine-out, Type=Casual Dining",3,0.12069872671787857
+"Cost=Medium, Cuisine=North Indian, OnlineOrder=Yes",3,0.12069872671787857
+"Rating=Average, TableBooking=No, Zone=East",3,0.12027780700831317
+"Popularity=Unnoticed, Rating=Average, TableBooking=No",3,0.12017257708092181
+"Cuisine=Chinese, Type=Quick Bites",2,0.12017257708092181
+"Cuisine=Chinese, Rating=Poor",2,0.12006734715353047
+"Cuisine=Chinese, TableBooking=No, Type=Quick Bites",3,0.11943596758918236
+"Cuisine=North Indian, TableBooking=No, Zone=East",3,0.11912027780700832
+"Cuisine=Fast Food, OnlineOrder=Yes",2,0.11890981795222562
+"Cuisine=Chinese, Rating=Poor, TableBooking=No",3,0.11869935809744292
+"Cost=Low, OnlineOrder=Yes, Popularity=Unnoticed",3,0.11859412817005156
+"OnlineOrder=No, Popularity=Unnoticed, Rating=Poor",3,0.11733136904135537
+Service=Desserts,1,0.11733136904135537
+"Cuisine=Fast Food, OnlineOrder=Yes, TableBooking=No",3,0.11722613911396401
+"Cost=Low, Cuisine=South Indian",2,0.11712090918657266
+"Cuisine=North Indian, Service=Dine-out, Zone=South",3,0.11691044933178996
+"OnlineOrder=Yes, Service=Dine-out, Type=Casual Dining",3,0.11680521940439861
+"Cost=Low, Cuisine=South Indian, TableBooking=No",3,0.11669998947700726
+"Rating=Poor, Zone=East",2,0.11669998947700726
+"Service=Desserts, TableBooking=No",2,0.11617383984005052
+"Rating=Poor, TableBooking=No, Zone=East",3,0.1157529201304851
+"Cost=Low, OnlineOrder=Yes, Rating=Poor",3,0.1155424602757024
+"Cuisine=Chinese, TableBooking=No, Zone=South",3,0.1155424602757024
+"Cost=Medium, Popularity=Known",2,0.115121540566137
+"Cost=Low, Rating=Average, Zone=South",3,0.11501631063874566
+"OnlineOrder=Yes, Popularity=Popular, Rating=Good",3,0.11427970114700621
+"Cost=Medium, Cuisine=North Indian, Type=Casual Dining",3,0.11364832158265811
+"Popularity=Popular, Rating=Average",2,0.11354309165526676
+"Cuisine=North Indian, OnlineOrder=Yes, Zone=South",3,0.11343786172787541
+"Cost=Low, Cuisine=North Indian, OnlineOrder=Yes",3,0.11312217194570136
+"Cost=Medium, Zone=East",2,0.11291171209091866
+"OnlineOrder=No, Zone=East",2,0.11270125223613596
+"OnlineOrder=Yes, TableBooking=No, Type=Casual Dining",3,0.1125960223087446
+"Cost=Medium, Rating=Poor",2,0.1125960223087446
+"Cost=Low, Popularity=Known, Type=Quick Bites",3,0.11249079238135326
+"Cost=Medium, OnlineOrder=Yes, Rating=Average",3,0.1117541828896138
+"Cuisine=Chinese, Popularity=Popular",2,0.1117541828896138
+"Cost=Medium, Popularity=Known, TableBooking=No",3,0.11143849310743975
+"OnlineOrder=No, Popularity=Known",2,0.11143849310743975
+"Cost=Medium, Rating=Poor, TableBooking=No",3,0.11143849310743975
+"Popularity=Popular, Rating=Good, TableBooking=No",3,0.11101757339787435
+"Cost=Low, Cuisine=Fast Food",2,0.11091234347048301
+"Cost=Medium, Cuisine=Chinese, Cuisine=North Indian",3,0.11091234347048301
+"OnlineOrder=Yes, Popularity=Known, Service=Dine-out",3,0.11059665368830895
+"Cost=Low, Cuisine=Fast Food, TableBooking=No",3,0.11059665368830895
+"Cuisine=Chinese, OnlineOrder=No",2,0.11038619383352626
+"Popularity=Popular, TableBooking=No, Zone=South",3,0.1102809639061349
+"OnlineOrder=No, Popularity=Unnoticed, Service=Dine-out",3,0.1096495843417868
+"Cuisine=North Indian, OnlineOrder=Yes, Popularity=Popular",3,0.1094391244870041
+"OnlineOrder=Yes, Type=Quick Bites, Zone=South",3,0.1090182047774387
+"Rating=Average, Service=Dine-out, Zone=South",3,0.10870251499526465
+"Popularity=Known, Service=Dine-out, Type=Quick Bites",3,0.10849205514048195
+"Cuisine=North Indian, Rating=Poor, Service=Dine-out",3,0.1083868252130906
+"Cuisine=Chinese, TableBooking=No, Type=Casual Dining",3,0.10828159528569925
+"Type=Quick Bites, Zone=East",2,0.10796590550352521
+"Cuisine=North Indian, OnlineOrder=Yes, Type=Quick Bites",3,0.10765021572135115
+"Cuisine=North Indian, Popularity=Popular, TableBooking=No",3,0.10765021572135115
+"Popularity=Unnoticed, Rating=Poor, Type=Quick Bites",3,0.1071240660843944
+"TableBooking=No, Type=Quick Bites, Zone=East",3,0.1071240660843944
+"Cost=Low, Popularity=Unnoticed, Zone=South",3,0.10701883615700306
+"Cuisine=Chinese, Cuisine=North Indian, Rating=Average",3,0.1069136062296117
+"OnlineOrder=Yes, Popularity=Popular, Zone=South",3,0.1069136062296117
+"Popularity=Known, Rating=Average, Service=Dine-out",3,0.10617699673787225
+"Cost=Medium, TableBooking=No, Zone=East",3,0.10617699673787225
+"Cost=Medium, OnlineOrder=Yes, Type=Casual Dining",3,0.10617699673787225
+"Cost=Low, OnlineOrder=Yes, Service=Delivery",3,0.10575607702830685
+Cuisine=Desserts,1,0.1054403872461328
+Zone=Central,1,0.10533515731874145
+"Popularity=Unnoticed, Zone=East",2,0.10449331789961065
+"Cuisine=Chinese, Service=Dine-out, Type=Quick Bites",3,0.1041776281174366
+"Cuisine=Chinese, Cuisine=North Indian, Type=Casual Dining",3,0.10407239819004525
+"Popularity=Unnoticed, TableBooking=No, Zone=East",3,0.10407239819004525
+"OnlineOrder=Yes, Rating=Poor, Service=Dine-out",3,0.1037567084078712
+"OnlineOrder=No, Popularity=Known, TableBooking=No",3,0.10365147848047984
+"OnlineOrder=Yes, Rating=Good, TableBooking=No",3,0.1035462485530885
+"Cuisine=Chinese, Service=Dine-out, Type=Casual Dining",3,0.1035462485530885
+"Cost=Medium, OnlineOrder=Yes, Zone=South",3,0.10280963906134905
+"Cost=Medium, OnlineOrder=No",2,0.1027044091339577
+"Cost=Medium, Cuisine=Chinese, Service=Dine-out",3,0.10238871935178365
+"OnlineOrder=Yes, Service=Dine-out, Zone=East",3,0.10228348942439229
+"Cuisine=North Indian, OnlineOrder=No, Service=Dine-out",3,0.10207302956960959
+"Cuisine=Desserts, TableBooking=No",2,0.10186256971482689
+"Cuisine=Chinese, Popularity=Known",2,0.10175733978743555
+"Cuisine=South Indian, Type=Quick Bites",2,0.10165210986004419
+"Popularity=Known, Zone=East",2,0.10154687993265285
+"OnlineOrder=No, Rating=Poor, Service=Dine-out",3,0.10133642007787015
+"Cuisine=South Indian, TableBooking=No, Type=Quick Bites",3,0.1010207302956961
+"Cuisine=Chinese, Rating=Average, Service=Dine-out",3,0.10070504051352204
+"Popularity=Popular, Zone=East",2,0.1005998105861307
+"Cuisine=Fast Food, Type=Quick Bites",2,0.1005998105861307
+"Cuisine=Fast Food, TableBooking=No, Type=Quick Bites",3,0.100389350731348
+"Cuisine=Chinese, Cuisine=North Indian, Zone=South",3,0.10007366094917394
+"Rating=Average, Type=Casual Dining",2,0.09986320109439124
+TableBooking=Yes,1,0.0997579711669999
+"Cost=Low, Popularity=Known, Service=Dine-out",3,0.0997579711669999
+"Cost=Low, OnlineOrder=No, Rating=Poor",3,0.09965274123960854
+"Cost=Low, Cuisine=Chinese, Type=Quick Bites",3,0.09923182153004315
+"Popularity=Popular, Rating=Average, TableBooking=No",3,0.09860044196569505
+"OnlineOrder=Yes, Popularity=Popular, Type=Casual Dining",3,0.09796906240134694
+"Cuisine=Biryani, OnlineOrder=Yes",2,0.0978638324739556
+"Cost=Low, Cuisine=Chinese, Service=Dine-out",3,0.0978638324739556
+"Cuisine=North Indian, OnlineOrder=Yes, Type=Casual Dining",3,0.09775860254656424
+"Cuisine=Fast Food, Service=Dine-out",2,0.09733768283699884
+"Popularity=Known, TableBooking=No, Zone=East",3,0.0972324529096075
+"OnlineOrder=Yes, Popularity=Known, Type=Quick Bites",3,0.09712722298221614
+"Cost=Medium, OnlineOrder=No, TableBooking=No",3,0.09712722298221614
+"Cuisine=North Indian, Cuisine=South Indian",2,0.0970219930548248
+"OnlineOrder=Yes, Popularity=Unnoticed, Rating=Poor",3,0.09691676312743344
+"Cuisine=Chinese, OnlineOrder=No, TableBooking=No",3,0.09670630327265074
+"Cost=Medium, Cuisine=Chinese, Type=Casual Dining",3,0.09639061349047669
+"OnlineOrder=No, TableBooking=No, Zone=East",3,0.09639061349047669
+"Cuisine=Fast Food, Service=Dine-out, TableBooking=No",3,0.09618015363569399
+"Cuisine=Chinese, OnlineOrder=Yes, Rating=Average",3,0.09607492370830265
+"Cuisine=Chinese, Popularity=Known, TableBooking=No",3,0.09586446385351995
+"Cuisine=Biryani, Service=Dine-out",2,0.09586446385351995
+"Cost=Low, OnlineOrder=Yes, Zone=East",3,0.09554877407134589
+"Popularity=Popular, Service=Dine-out, Type=Casual Dining",3,0.09554877407134589
+"Cost=Low, Cuisine=South Indian, Type=Quick Bites",3,0.09554877407134589
+"Cuisine=South Indian, OnlineOrder=Yes",2,0.09533831421656319
+"OnlineOrder=No, Popularity=Popular",2,0.09512785436178049
+"Cuisine=Chinese, Cuisine=North Indian, Rating=Poor",3,0.09502262443438914
+"Cost=Low, Popularity=Popular",2,0.0947069346522151
+"Cost=Low, Cuisine=South Indian, Service=Dine-out",3,0.0947069346522151
+"Cost=Low, Popularity=Popular, TableBooking=No",3,0.09460170472482374
+"Cost=Medium, Cuisine=Chinese, OnlineOrder=Yes",3,0.09418078501525834
+"Cuisine=Chinese, Service=Dine-out, Zone=South",3,0.09375986530569294
+"Cuisine=North Indian, Popularity=Known, Service=Dine-out",3,0.09354940545091024
+"Cost=Low, Cuisine=Chinese, Cuisine=North Indian",3,0.09270756603177943
+"Rating=Average, Service=Delivery",2,0.09239187624960539
+"Cost=Medium, Rating=Average, Service=Dine-out",3,0.09228664632221403
+"Cuisine=North Indian, Popularity=Popular, Service=Dine-out",3,0.09218141639482269
+"Cuisine=North Indian, Service=Dine-out, Zone=East",3,0.09165526675786594
+"OnlineOrder=Yes, Popularity=Known, Zone=South",3,0.0915500368304746
+"Rating=Average, Service=Delivery, TableBooking=No",3,0.09123434704830054
+"OnlineOrder=Yes, Popularity=Popular, Rating=Average",3,0.09112911712090918
+"Cost=Low, Rating=Poor, Zone=South",3,0.09091865726612648
+Cuisine=Beverages,1,0.09091865726612648
+"Cuisine=Biryani, OnlineOrder=Yes, TableBooking=No",3,0.09091865726612648
+"Cuisine=Chinese, Popularity=Unnoticed",2,0.09070819741134378
+"Cost=Low, Service=Desserts",2,0.09060296748395244
+"Cuisine=Biryani, Service=Dine-out, TableBooking=No",3,0.09049773755656108
+"Cost=Low, Service=Desserts, TableBooking=No",3,0.09049773755656108
+"Cuisine=Chinese, Cuisine=North Indian, Type=Quick Bites",3,0.09028727770177838
+"Cuisine=South Indian, OnlineOrder=Yes, TableBooking=No",3,0.09018204777438704
+"OnlineOrder=Yes, Rating=Poor, Type=Quick Bites",3,0.09007681784699569
+"Cuisine=Chinese, Zone=East",2,0.09007681784699569
+"Cuisine=Chinese, Popularity=Unnoticed, TableBooking=No",3,0.09007681784699569
+"Service=Dine-out, Type=Quick Bites, Zone=East",3,0.08997158791960433
+"Type=Casual Dining, Zone=South",2,0.08997158791960433
+"Popularity=Known, Rating=Poor",2,0.08955066821003893
+"Popularity=Unnoticed, Rating=Poor, Zone=South",3,0.08891928864569083
+"Cost=Medium, Popularity=Popular, Service=Dine-out",3,0.08881405871829949
+"Popularity=Known, Rating=Poor, TableBooking=No",3,0.08881405871829949
+"Cuisine=North Indian, OnlineOrder=Yes, Zone=East",3,0.08870882879090813
+Cuisine=Continental,1,0.08860359886351678
+"Cost=Low, OnlineOrder=No, Zone=South",3,0.08839313900873408
+"OnlineOrder=Yes, Zone=North",2,0.08839313900873408
+"OnlineOrder=No, Type=Casual Dining",2,0.08839313900873408
+"Cost=Low, Popularity=Unnoticed, Rating=Average",3,0.08828790908134274
+"Cuisine=South Indian, Service=Dine-out, Type=Quick Bites",3,0.08828790908134274
+"Rating=Good, Zone=South",2,0.08818267915395138
+"Cuisine=Chinese, Rating=Poor, Service=Dine-out",3,0.08797221929916868
+"Cost=High, Popularity=Popular",2,0.08797221929916868
+"Cuisine=North Indian, Cuisine=South Indian, TableBooking=No",3,0.08786698937177734
+"Service=Delivery, Zone=South",2,0.08776175944438598
+"Rating=Good, Service=Dine-out",2,0.08702514995264653
+"Service=Delivery, TableBooking=No, Zone=South",3,0.08702514995264653
+"Cuisine=North Indian, OnlineOrder=Yes, Rating=Poor",3,0.08681469009786383
+"OnlineOrder=No, Popularity=Unnoticed, Type=Quick Bites",3,0.08660423024308113
+"Cuisine=North Indian, Popularity=Unnoticed, Service=Dine-out",3,0.08649900031568979
+"Cuisine=Chinese, Cuisine=North Indian, OnlineOrder=No",3,0.08649900031568979
+"Cuisine=North Indian, OnlineOrder=Yes, Popularity=Known",3,0.08649900031568979
+"Cuisine=Chinese, OnlineOrder=Yes, Zone=South",3,0.08639377038829843
+"OnlineOrder=Yes, Rating=Average, Zone=East",3,0.08597285067873303
+"Cuisine=Chinese, OnlineOrder=Yes, Type=Casual Dining",3,0.08597285067873303
+"Cuisine=Beverages, TableBooking=No",2,0.08565716089655898
+"TableBooking=No, Zone=Central",2,0.08565716089655898
+"Cuisine=Chinese, OnlineOrder=Yes, Popularity=Popular",3,0.08544670104177628
+"Cost=Low, Type=Quick Bites, Zone=East",3,0.08544670104177628
+"Cost=Low, Service=Dine-out, Zone=East",3,0.08523624118699358
+"Popularity=Popular, TableBooking=Yes",2,0.08523624118699358
+"Cuisine=Chinese, Popularity=Popular, TableBooking=No",3,0.08513101125960224
+"Popularity=Unnoticed, Service=Delivery",2,0.08513101125960224
+"Popularity=Unnoticed, Service=Delivery, TableBooking=No",3,0.08513101125960224
+"Popularity=Known, Rating=Average, Type=Quick Bites",3,0.08502578133221088
+"Cuisine=North Indian, Popularity=Unnoticed, Rating=Poor",3,0.08481532147742818
+"OnlineOrder=No, Service=Dine-out, Zone=South",3,0.08471009155003684
+"Popularity=Known, Rating=Average, Zone=South",3,0.08428917184047142
+"Rating=Average, TableBooking=No, Type=Casual Dining",3,0.08418394191308008
+"Popularity=Popular, Type=Quick Bites",2,0.08386825213090603
+"Cost=Medium, Cuisine=North Indian, Rating=Average",3,0.08365779227612333
+"Cost=Low, OnlineOrder=No, Rating=Average",3,0.08365779227612333
+"Cuisine=North Indian, Popularity=Popular, Type=Casual Dining",3,0.08355256234873198
+"Rating=Poor, Service=Dine-out, Zone=South",3,0.08334210249394929
+"Cuisine=South Indian, Rating=Average",2,0.08323687256655793
+"Cost=Low, Popularity=Known, Zone=South",3,0.08323687256655793
+"Rating=Poor, Service=Delivery",2,0.08323687256655793
+"Rating=Poor, Service=Delivery, TableBooking=No",3,0.08313164263916657
+"Cuisine=Chinese, Cuisine=North Indian, Popularity=Popular",3,0.08313164263916657
+"Popularity=Popular, TableBooking=No, Type=Quick Bites",3,0.08313164263916657
+"Popularity=Popular, TableBooking=No, Type=Casual Dining",3,0.08250026307481848
+"Cost=Medium, Service=Dine-out, Zone=South",3,0.08176365358307902
+"Cuisine=Biryani, Cuisine=North Indian",2,0.08155319372829632
+"Cuisine=North Indian, Service=Delivery",2,0.08155319372829632
+"Cuisine=Fast Food, Rating=Average",2,0.08155319372829632
+"Cuisine=Chinese, Cuisine=North Indian, Popularity=Known",3,0.08144796380090498
+"OnlineOrder=Yes, TableBooking=No, Zone=North",3,0.08144796380090498
+"Cost=Medium, Popularity=Unnoticed",2,0.08134273387351362
+"Cost=Low, Cuisine=Chinese, OnlineOrder=Yes",3,0.08134273387351362
+"Cost=Medium, Rating=Good",2,0.08102704409133958
+"Cost=Medium, OnlineOrder=Yes, Zone=East",3,0.08081658423655688
+"Cuisine=Chinese, TableBooking=No, Zone=East",3,0.08081658423655688
+"Cuisine=Fast Food, Rating=Average, TableBooking=No",3,0.08071135430916553
+"Rating=Average, Type=Quick Bites, Zone=South",3,0.08050089445438283
+"Cuisine=North Indian, Popularity=Known, Rating=Average",3,0.08039566452699147
+"Cost=Medium, Popularity=Popular, Type=Casual Dining",3,0.08039566452699147
+"Cost=Medium, Popularity=Unnoticed, TableBooking=No",3,0.08029043459960013
+"Cuisine=North Indian, Rating=Average, Zone=South",3,0.08029043459960013
+"OnlineOrder=No, Rating=Good",2,0.08018520467220877
+"OnlineOrder=No, Rating=Average, Service=Dine-out",3,0.07997474481742607
+"Cuisine=North Indian, Service=Delivery, TableBooking=No",3,0.07976428496264337
+"Rating=Average, Service=Dine-out, Type=Casual Dining",3,0.07955382510786067
+"OnlineOrder=Yes, Rating=Average, Service=Delivery",3,0.07944859518046933
+"Cuisine=Chinese, Cuisine=South Indian",2,0.07944859518046933
+"Cuisine=South Indian, OnlineOrder=No",2,0.07944859518046933
+"Popularity=Unnoticed, Service=Dine-out, Zone=South",3,0.07913290539829528
+"Cost=Medium, OnlineOrder=Yes, Popularity=Known",3,0.07913290539829528
+"Cuisine=Chinese, OnlineOrder=No, Service=Dine-out",3,0.07892244554351258
+"Cost=Low, Cuisine=North Indian, Rating=Average",3,0.07892244554351258
+"Cost=Low, Cuisine=North Indian, Rating=Poor",3,0.07881721561612122
+"Cuisine=South Indian, Rating=Average, TableBooking=No",3,0.07839629590655582
+"Cuisine=Fast Food, Zone=South",2,0.07808060612438178
+"Cuisine=Chinese, OnlineOrder=Yes, Type=Quick Bites",3,0.07797537619699042
+"Cost=Low, Cuisine=North Indian, Zone=South",3,0.07787014626959908
+"Rating=Good, Type=Casual Dining",2,0.07776491634220772
+"Cuisine=Fast Food, Service=Dine-out, Type=Quick Bites",3,0.07776491634220772
+"OnlineOrder=Yes, Rating=Poor, Zone=South",3,0.07765968641481637
+"Cuisine=Fast Food, TableBooking=No, Zone=South",3,0.07681784699568557
+"OnlineOrder=Yes, Popularity=Unnoticed, Service=Dine-out",3,0.07639692728612017
+"Cost=Medium, Cuisine=North Indian, Zone=South",3,0.07639692728612017
+"Type=Casual Dining, Zone=East",2,0.07576554772177208
+"Cuisine=North Indian, Rating=Good",2,0.07544985793959802
+"Cost=Medium, Rating=Average, Type=Casual Dining",3,0.07534462801220668
+"Cuisine=Chinese, Popularity=Popular, Service=Dine-out",3,0.07534462801220668
+"Cost=High, Rating=Good",2,0.07513416815742398
+"Cost=Low, Cuisine=Fast Food, Type=Quick Bites",3,0.07481847837524992
+"Popularity=Popular, Service=Dine-out, Zone=South",3,0.07471324844785857
+"Cuisine=Biryani, Cuisine=North Indian, TableBooking=No",3,0.07460801852046722
+"Cuisine=Chinese, Cuisine=South Indian, TableBooking=No",3,0.07439755866568452
+"OnlineOrder=Yes, Popularity=Unnoticed, Type=Quick Bites",3,0.07439755866568452
+"Popularity=Known, Service=Delivery",2,0.07429232873829317
+"Cost=Medium, Cuisine=North Indian, Popularity=Popular",3,0.07418709881090182
+"Cost=High, OnlineOrder=No",2,0.07418709881090182
+"Cuisine=Desserts, Service=Desserts",2,0.07408186888351047
+"Popularity=Known, Service=Delivery, TableBooking=No",3,0.07397663895611913
+"Cuisine=Desserts, Service=Desserts, TableBooking=No",3,0.07376617910133643
+"Cuisine=North Indian, Rating=Average, Type=Quick Bites",3,0.07366094917394507
+"Cuisine=South Indian, OnlineOrder=No, TableBooking=No",3,0.07355571924655371
+"Cuisine=North Indian, Rating=Average, Type=Casual Dining",3,0.07355571924655371
+"Cost=Low, TableBooking=No, Zone=North",3,0.07355571924655371
+"Cost=Low, Zone=North",2,0.07355571924655371
+"OnlineOrder=No, Rating=Poor, Type=Quick Bites",3,0.07345048931916237
+"Cost=Low, OnlineOrder=Yes, Popularity=Popular",3,0.07334525939177101
+"Cost=High, TableBooking=Yes",2,0.07313479953698832
+"Cost=Low, Cuisine=North Indian, Popularity=Unnoticed",3,0.07302956960959697
+"Cuisine=North Indian, Rating=Poor, Type=Quick Bites",3,0.07281910975481427
+"Popularity=Popular, TableBooking=No, Zone=East",3,0.07271387982742292
+"Cuisine=South Indian, Zone=South",2,0.07271387982742292
+"Rating=Good, TableBooking=Yes",2,0.07271387982742292
+"Cost=Low, Cuisine=Fast Food, OnlineOrder=Yes",3,0.07271387982742292
+"OnlineOrder=Yes, Popularity=Popular, Zone=East",3,0.07250341997264022
+"Popularity=Popular, Rating=Average, Service=Dine-out",3,0.07239819004524888
+"Popularity=Known, Service=Dine-out, Zone=South",3,0.07239819004524888
+"Popularity=Popular, Rating=Good, Service=Dine-out",3,0.07229296011785752
+"Cost=Low, Popularity=Unnoticed, Zone=East",3,0.07229296011785752
+"Cost=Medium, Service=Delivery",2,0.07218773019046616
+Cuisine=Cafe,1,0.07218773019046616
+"Cost=Medium, Cuisine=Biryani",2,0.07208250026307482
+"Popularity=Popular, Rating=Good, Zone=South",3,0.07197727033568346
+"Rating=Poor, Service=Dine-out, Zone=East",3,0.07187204040829212
+"OnlineOrder=Yes, Popularity=Unnoticed, Zone=South",3,0.07187204040829212
+"OnlineOrder=Yes, Service=Delivery, Zone=South",3,0.07176681048090076
+"Cuisine=Chinese, Popularity=Known, Service=Dine-out",3,0.07155635062611806
+"OnlineOrder=Yes, Type=Quick Bites, Zone=East",3,0.07145112069872672
+"Cuisine=Fast Food, OnlineOrder=Yes, Type=Quick Bites",3,0.07145112069872672
+"Service=Dine-out, Type=Casual Dining, Zone=South",3,0.07145112069872672
+"Popularity=Popular, Rating=Good, Type=Casual Dining",3,0.07124066084394402
+"OnlineOrder=No, Popularity=Unnoticed, Zone=South",3,0.07113543091655267
+"Cost=Medium, Service=Delivery, TableBooking=No",3,0.07113543091655267
+"Cuisine=North Indian, Type=Quick Bites, Zone=South",3,0.07092497106176997
+"Popularity=Unnoticed, Type=Quick Bites, Zone=South",3,0.07071451120698727
+"Cuisine=Beverages, OnlineOrder=Yes",2,0.07050405135220457
+"Cost=Low, Rating=Poor, Zone=East",3,0.06997790171524781
+"Cost=High, Popularity=Popular, Rating=Good",3,0.06997790171524781
+"Cost=Low, Cuisine=Desserts",2,0.06997790171524781
+"Cost=Low, Cuisine=Desserts, TableBooking=No",3,0.06997790171524781
+"OnlineOrder=Yes, Popularity=Popular, Type=Quick Bites",3,0.06997790171524781
+"Cuisine=South Indian, Popularity=Unnoticed",2,0.06966221193307377
+"Rating=Average, Service=Dine-out, Zone=East",3,0.06966221193307377
+"Cuisine=North Indian, Cuisine=South Indian, Service=Dine-out",3,0.06966221193307377
+"Cuisine=Chinese, Cuisine=North Indian, Zone=East",3,0.06966221193307377
+"Cost=Medium, Cuisine=North Indian, Rating=Poor",3,0.06955698200568242
+"Cuisine=South Indian, Popularity=Unnoticed, TableBooking=No",3,0.06924129222350836
+"OnlineOrder=Yes, Popularity=Known, Zone=East",3,0.06903083236872566
+"Cuisine=Chinese, Popularity=Unnoticed, Service=Dine-out",3,0.06892560244133432
+"Popularity=Popular, Rating=Good, TableBooking=Yes",3,0.06892560244133432
+"Rating=Poor, Type=Quick Bites, Zone=South",3,0.06882037251394296
+"Cuisine=North Indian, OnlineOrder=No, Rating=Poor",3,0.06882037251394296
+"Cost=Medium, OnlineOrder=Yes, Rating=Poor",3,0.06871514258655162
+"Cuisine=South Indian, TableBooking=No, Zone=South",3,0.06860991265916026
+"Cost=Medium, Rating=Poor, Service=Dine-out",3,0.06860991265916026
+"Cost=High, Type=Casual Dining",2,0.06850468273176892
+"Cuisine=Chinese, Cuisine=North Indian, Cuisine=South Indian",3,0.06839945280437756
+"OnlineOrder=Yes, Rating=Poor, Zone=East",3,0.06839945280437756
+"OnlineOrder=No, Popularity=Known, Rating=Average",3,0.06829422287698622
+"Cuisine=South Indian, OnlineOrder=Yes, Service=Dine-out",3,0.06808376302220351
+"Popularity=Unnoticed, Rating=Poor, Zone=East",3,0.06808376302220351
+"Cost=Low, Rating=Average, Zone=East",3,0.06776807324002947
+"Cuisine=Desserts, OnlineOrder=Yes",2,0.06776807324002947
+"Cuisine=North Indian, Popularity=Popular, Rating=Good",3,0.06755761338524677
+"Cost=Medium, Popularity=Popular, Rating=Good",3,0.06755761338524677
+"TableBooking=No, Type=Casual Dining, Zone=South",3,0.06745238345785541
+"OnlineOrder=Yes, Rating=Average, Type=Casual Dining",3,0.06745238345785541
+"Popularity=Popular, Service=Dine-out, Type=Quick Bites",3,0.06734715353046407
+"Cuisine=Chinese, Cuisine=North Indian, Popularity=Unnoticed",3,0.06724192360307271
+"Cuisine=Chinese, OnlineOrder=Yes, Rating=Poor",3,0.06724192360307271
+"Cost=Medium, Cuisine=Biryani, TableBooking=No",3,0.06671577396611596
+"Cuisine=Chinese, Popularity=Popular, Type=Casual Dining",3,0.06671577396611596
+"Cost=Medium, Popularity=Popular, Zone=South",3,0.06640008418394192
+"Cost=Medium, Rating=Good, TableBooking=No",3,0.06629485425655056
+"Service=Dine-out, Zone=North",2,0.06629485425655056
+"Cost=Low, Cuisine=Fast Food, Service=Dine-out",3,0.06629485425655056
+"Cuisine=South Indian, Rating=Poor",2,0.06597916447437652
+"Cost=Medium, Cuisine=Chinese, Rating=Average",3,0.06597916447437652
+"OnlineOrder=No, TableBooking=No, Type=Casual Dining",3,0.06597916447437652
+"Cuisine=Chinese, OnlineOrder=Yes, Popularity=Known",3,0.06587393454698516
+"Cuisine=Beverages, OnlineOrder=Yes, TableBooking=No",3,0.06587393454698516
+Service=Cafes,1,0.06587393454698516
+"Cuisine=North Indian, OnlineOrder=Yes, Service=Delivery",3,0.06576870461959382
+"OnlineOrder=No, Popularity=Popular, Rating=Good",3,0.06566347469220246
+"Cuisine=North Indian, Popularity=Popular, Zone=South",3,0.06555824476481112
+"Cuisine=Fast Food, OnlineOrder=Yes, Service=Dine-out",3,0.06545301483741976
+"Cuisine=Chinese, Service=Dine-out, Zone=East",3,0.06524255498263706
+"Cuisine=South Indian, Rating=Poor, TableBooking=No",3,0.06524255498263706
+"Cost=Medium, Service=Dine-out, Zone=East",3,0.06524255498263706
+"OnlineOrder=Yes, Popularity=Known, Service=Delivery",3,0.06503209512785436
+"Cuisine=Desserts, OnlineOrder=Yes, TableBooking=No",3,0.06503209512785436
+"Cuisine=North Indian, Rating=Poor, Zone=South",3,0.06503209512785436
+"Cost=Low, Cuisine=South Indian, OnlineOrder=Yes",3,0.06492686520046301
+"Cuisine=Fast Food, Rating=Poor",2,0.06492686520046301
+"OnlineOrder=Yes, Popularity=Unnoticed, Rating=Average",3,0.06492686520046301
+"Cost=Low, Rating=Good",2,0.06482163527307166
+"Cuisine=Cafe, Service=Cafes",2,0.06482163527307166
+"Popularity=Known, Type=Casual Dining",2,0.06482163527307166
+"Cuisine=Fast Food, Rating=Poor, TableBooking=No",3,0.06471640534568031
+"Cost=Medium, Popularity=Known, Rating=Average",3,0.06471640534568031
+"Cuisine=South Indian, OnlineOrder=No, Service=Dine-out",3,0.06471640534568031
+"Cuisine=North Indian, OnlineOrder=No, Popularity=Unnoticed",3,0.06461117541828897
+"Cost=High, Popularity=Popular, TableBooking=Yes",3,0.06461117541828897
+"Cost=Low, Rating=Good, TableBooking=No",3,0.06450594549089761
+Cuisine=Street Food,1,0.06440071556350627
+"Cuisine=North Indian, Popularity=Unnoticed, Type=Quick Bites",3,0.06419025570872357
+"Cost=Medium, Type=Quick Bites",2,0.06408502578133221
+"OnlineOrder=Yes, Service=Desserts",2,0.06408502578133221
+"Cuisine=North Indian, OnlineOrder=No, Type=Casual Dining",3,0.06387456592654951
+"Service=Delivery, Zone=East",2,0.06376933599915816
+"Cuisine=North Indian, Type=Casual Dining, Zone=South",3,0.06376933599915816
+"Cuisine=Street Food, TableBooking=No",2,0.06376933599915816
+"Rating=Good, TableBooking=No, Zone=South",3,0.06366410607176681
+"Cost=Medium, Rating=Average, Zone=South",3,0.06366410607176681
+"OnlineOrder=Yes, Rating=Poor, Service=Delivery",3,0.06366410607176681
+"Cuisine=Biryani, OnlineOrder=Yes, Service=Dine-out",3,0.06366410607176681
+"Cuisine=South Indian, Rating=Average, Service=Dine-out",3,0.06345364621698411
+"Cost=Medium, Popularity=Known, Service=Dine-out",3,0.06334841628959276
+"OnlineOrder=No, Service=Dine-out, Type=Casual Dining",3,0.06334841628959276
+"Cost=Medium, Type=Casual Dining, Zone=South",3,0.06324318636220141
+"Cost=Medium, TableBooking=No, Type=Quick Bites",3,0.06324318636220141
+"Cost=Medium, OnlineOrder=Yes, Rating=Good",3,0.06313795643481006
+"OnlineOrder=No, Service=Dine-out, Zone=East",3,0.06313795643481006
+"OnlineOrder=Yes, Service=Desserts, TableBooking=No",3,0.06303272650741872
+"Cost=High, Cuisine=North Indian",2,0.06292749658002736
+"Cost=Low, Cuisine=North Indian, Popularity=Known",3,0.06292749658002736
+"Cost=Low, Popularity=Unnoticed, Service=Delivery",3,0.06292749658002736
+"Service=Delivery, TableBooking=No, Zone=East",3,0.06282226665263602
+"Cuisine=Fast Food, Popularity=Known",2,0.06271703672524466
+"OnlineOrder=No, Rating=Poor, Zone=South",3,0.06271703672524466
+"Cuisine=Biryani, Cuisine=North Indian, OnlineOrder=Yes",3,0.0626118067978533
+"Cuisine=Chinese, Popularity=Unnoticed, Rating=Poor",3,0.06250657687046196
+"OnlineOrder=Yes, Popularity=Unnoticed, Service=Delivery",3,0.06250657687046196
+"Rating=Poor, Type=Casual Dining",2,0.06229611701567926
+"Cost=Medium, OnlineOrder=No, Service=Dine-out",3,0.06219088708828791
+"Cuisine=Chinese, Rating=Average, Type=Casual Dining",3,0.061875197306113856
+"Cuisine=Fast Food, Popularity=Known, TableBooking=No",3,0.061875197306113856
+"Service=Dine-out, TableBooking=No, Zone=North",3,0.061875197306113856
+"Cuisine=North Indian, Popularity=Popular, Rating=Average",3,0.06176996737872251
+"Cuisine=Chinese, Cuisine=South Indian, Service=Dine-out",3,0.06176996737872251
+"Cuisine=North Indian, OnlineOrder=No, Zone=South",3,0.06145427759654846
+"Cost=Medium, OnlineOrder=Yes, Service=Delivery",3,0.06145427759654846
+"Rating=Good, Service=Dine-out, TableBooking=No",3,0.06134904766915711
+"OnlineOrder=Yes, Rating=Good, Zone=South",3,0.06134904766915711
+"Cuisine=North Indian, OnlineOrder=Yes, Popularity=Unnoticed",3,0.06134904766915711
+"TableBooking=Yes, Type=Casual Dining",2,0.06134904766915711
+"Cost=Low, Cuisine=Beverages",2,0.06134904766915711
+"Cost=Low, Cuisine=Biryani",2,0.06134904766915711
+"Cost=Low, Rating=Average, Service=Delivery",3,0.06113858781437441
+"Cuisine=Cafe, TableBooking=No",2,0.06113858781437441
+"Rating=Good, Zone=East",2,0.06113858781437441
+"Cost=Low, Cuisine=Beverages, TableBooking=No",3,0.06103335788698306
+"OnlineOrder=No, Popularity=Known, Service=Dine-out",3,0.06092812795959171
+Type=Cafe,1,0.06082289803220036
+"Cost=Low, Cuisine=Biryani, TableBooking=No",3,0.06071766810480901
+"Cuisine=Chinese, Rating=Average, Zone=South",3,0.060612438177417655
+"OnlineOrder=Yes, Type=Casual Dining, Zone=South",3,0.060507208250026305
+"Rating=Average, Zone=North",2,0.060507208250026305
+"Popularity=Known, Rating=Average, Zone=East",3,0.060507208250026305
+"OnlineOrder=Yes, Popularity=Known, Rating=Poor",3,0.060507208250026305
+"Cuisine=Cafe, Type=Cafe",2,0.060507208250026305
+"Popularity=Unnoticed, Rating=Average, Service=Dine-out",3,0.060401978322634955
+"OnlineOrder=No, Type=Quick Bites, Zone=South",3,0.060401978322634955
+"Cuisine=Biryani, Type=Quick Bites",2,0.060401978322634955
+"Cuisine=Biryani, Rating=Poor",2,0.060296748395243606
+"Rating=Poor, TableBooking=No, Type=Casual Dining",3,0.060296748395243606
+"Cuisine=Biryani, Rating=Average",2,0.060191518467852256
+"Cuisine=South Indian, Popularity=Known",2,0.060191518467852256
+"Cuisine=Chinese, Popularity=Known, Rating=Average",3,0.06008628854046091
+"Cost=Medium, Cuisine=Chinese, Popularity=Popular",3,0.06008628854046091
+"Cuisine=Biryani, Rating=Poor, TableBooking=No",3,0.05998105861306956
+"Cuisine=Fast Food, Popularity=Unnoticed",2,0.05998105861306956
+"Cuisine=Fast Food, Popularity=Unnoticed, TableBooking=No",3,0.05987582868567821
+"Cost=Low, Cuisine=Chinese, Rating=Poor",3,0.05977059875828686
+"Cuisine=North Indian, Popularity=Known, Type=Quick Bites",3,0.05977059875828686
+"Cuisine=North Indian, Rating=Average, Zone=East",3,0.05966536883089551
+"Cost=Medium, Cuisine=North Indian, OnlineOrder=No",3,0.05956013890350416
+"Cuisine=Biryani, TableBooking=No, Type=Quick Bites",3,0.05956013890350416
+"Cost=Low, Service=Delivery, Zone=South",3,0.05945490897611281
+"Cost=Medium, Popularity=Popular, Rating=Average",3,0.05934967904872146
+"Cost=Medium, Cuisine=Chinese, Zone=South",3,0.0592444491213301
+"Cost=Low, Popularity=Popular, Type=Quick Bites",3,0.0592444491213301
+"Cuisine=Fast Food, OnlineOrder=Yes, Rating=Average",3,0.059139219193938754
+"Cuisine=Chinese, OnlineOrder=Yes, Zone=East",3,0.059139219193938754
+"Cost=Medium, Cuisine=North Indian, Zone=East",3,0.059033989266547404
+"OnlineOrder=No, Rating=Average, Zone=South",3,0.059033989266547404
+"Cuisine=North Indian, OnlineOrder=No, Rating=Average",3,0.058928759339156055
+"Service=Delivery, Type=Quick Bites",2,0.058928759339156055
+"OnlineOrder=No, Zone=Central",2,0.058823529411764705
+"Cost=Medium, Cuisine=North Indian, Popularity=Known",3,0.058718299484373356
+"Service=Delivery, TableBooking=No, Type=Quick Bites",3,0.058613069556982006
+"Service=Dine-out, Type=Casual Dining, Zone=East",3,0.05829737977480796
+"Cost=Low, Cuisine=North Indian, OnlineOrder=No",3,0.05798168999263391
+"Cuisine=South Indian, Popularity=Known, TableBooking=No",3,0.0577712301378512
+"Rating=Average, TableBooking=No, Zone=North",3,0.0577712301378512
+"Cuisine=Chinese, Rating=Poor, Type=Quick Bites",3,0.0577712301378512
+"Cost=High, Rating=Good, TableBooking=Yes",3,0.05766600021045985
+"Cuisine=Biryani, Zone=South",2,0.05766600021045985
+"Cuisine=South Indian, Service=Dine-out, Zone=South",3,0.0575607702830685
+"Popularity=Known, Type=Quick Bites, Zone=South",3,0.0575607702830685
+"Popularity=Known, TableBooking=No, Type=Casual Dining",3,0.057455540355677154
+"Cost=Low, Cuisine=North Indian, Zone=East",3,0.057455540355677154
+"Popularity=Unnoticed, Service=Dine-out, Zone=East",3,0.057245080500894455
+"TableBooking=No, Type=Delivery",2,0.057139850573503105
+"Cost=Medium, Cuisine=Biryani, Cuisine=North Indian",3,0.057139850573503105
+"Cost=Low, OnlineOrder=No, Popularity=Known",3,0.057139850573503105
+Type=Delivery,1,0.057139850573503105
+"Cost=Low, Cuisine=Chinese, Rating=Average",3,0.056824160791329056
+"Cost=Low, OnlineOrder=No, Zone=East",3,0.05661370093654635
+"Cost=Low, Cuisine=South Indian, Rating=Average",3,0.05640324108176365
+"Cost=Low, Cuisine=Street Food",2,0.05640324108176365
+"Cost=Low, Cuisine=Street Food, TableBooking=No",3,0.0562980111543723
+"Cuisine=South Indian, Popularity=Unnoticed, Service=Dine-out",3,0.0562980111543723
+"OnlineOrder=No, Popularity=Unnoticed, Rating=Average",3,0.05619278122698095
+"OnlineOrder=No, Popularity=Popular, TableBooking=No",3,0.05619278122698095
+"TableBooking=No, Type=Dessert Parlor",2,0.05619278122698095
+Type=Dessert Parlor,1,0.05619278122698095
+"Service=Cafes, TableBooking=No",2,0.05598232137219825
+"Cuisine=North Indian, TableBooking=Yes",2,0.0558770914448069
+"Cuisine=Biryani, Rating=Average, TableBooking=No",3,0.0558770914448069
+"OnlineOrder=Yes, Rating=Good, Service=Dine-out",3,0.055771861517415554
+"Cuisine=North Indian, Popularity=Known, Zone=South",3,0.055666631590024204
+"Cost=Low, Cuisine=Fast Food, Rating=Average",3,0.055561401662632855
+"TableBooking=No, Type=Casual Dining, Zone=East",3,0.055561401662632855
+"Cost=Medium, Cuisine=Biryani, OnlineOrder=Yes",3,0.055561401662632855
+"Cost=Low, Cuisine=Chinese, Zone=South",3,0.055561401662632855
+"Cuisine=North Indian, Rating=Poor, Zone=East",3,0.055456171735241505
+"Cost=Low, Popularity=Known, Zone=East",3,0.055350941807850156
+"Service=Cafes, Type=Cafe",2,0.0552457118804588
+"Cuisine=South Indian, OnlineOrder=Yes, Type=Quick Bites",3,0.05514048195306745
+"Cost=Low, Popularity=Popular, Service=Dine-out",3,0.05514048195306745
+"Cuisine=Cafe, Service=Cafes, TableBooking=No",3,0.0550352520256761
+"Cuisine=Cafe, Service=Cafes, Type=Cafe",3,0.0550352520256761
+"Cost=Low, Cuisine=Desserts, Service=Desserts",3,0.0550352520256761
+"Popularity=Popular, Service=Dine-out, Zone=East",3,0.05493002209828475
+"Type=Quick Bites, Zone=North",2,0.0548247921708934
+"Cuisine=North Indian, Cuisine=South Indian, OnlineOrder=Yes",3,0.0548247921708934
+"TableBooking=No, Type=Quick Bites, Zone=North",3,0.05471956224350205
+"OnlineOrder=No, Rating=Average, Type=Quick Bites",3,0.05450910238871935
+"Cost=Low, Cuisine=Chinese, Popularity=Unnoticed",3,0.054403872461328
+"Cuisine=Biryani, TableBooking=No, Zone=South",3,0.0541934126065453
+"Rating=Average, Service=Desserts",2,0.053982952751762604
+"Cuisine=Chinese, Type=Casual Dining, Zone=South",3,0.05387772282437125
+"Cost=Low, Cuisine=South Indian, Popularity=Unnoticed",3,0.05387772282437125
+"Cost=Medium, Cuisine=Fast Food",2,0.0537724928969799
+"Popularity=Unnoticed, Rating=Average, Type=Quick Bites",3,0.05366726296958855
+"Rating=Average, Service=Desserts, TableBooking=No",3,0.05366726296958855
+"Cuisine=Fast Food, OnlineOrder=Yes, Zone=South",3,0.05366726296958855
+"Cuisine=Chinese, Rating=Average, Type=Quick Bites",3,0.05366726296958855
+"Cuisine=North Indian, Popularity=Unnoticed, Zone=South",3,0.05366726296958855
+"Service=Dine-out, Zone=Central",2,0.05366726296958855
+Cuisine=Italian,1,0.0535620330421972
+"Cuisine=Biryani, Cuisine=North Indian, Service=Dine-out",3,0.0535620330421972
+"TableBooking=No, Type=Cafe",2,0.0535620330421972
+"Popularity=Unnoticed, Rating=Average, Zone=South",3,0.0535620330421972
+"Cost=Low, Cuisine=Fast Food, Zone=South",3,0.05345680311480585
+"Cost=Low, Rating=Poor, Service=Delivery",3,0.0533515731874145
+"Cuisine=Cafe, TableBooking=No, Type=Cafe",3,0.05324634326002315
+"OnlineOrder=No, Service=Desserts",2,0.05324634326002315
+"Popularity=Known, Service=Dine-out, Zone=East",3,0.05324634326002315
+"OnlineOrder=No, Service=Desserts, TableBooking=No",3,0.0531411133326318
+"Popularity=Popular, TableBooking=Yes, Type=Casual Dining",3,0.0531411133326318
+"Cost=Medium, Cuisine=Chinese, Rating=Poor",3,0.0531411133326318
+"Cost=Medium, Cuisine=Fast Food, TableBooking=No",3,0.05303588340524045
+"Cuisine=South Indian, Rating=Poor, Service=Dine-out",3,0.05303588340524045
+"Cuisine=Chinese, OnlineOrder=No, Rating=Poor",3,0.05282542355045775
+Cuisine=Bakery,1,0.05282542355045775
+"Cuisine=Fast Food, OnlineOrder=No",2,0.05282542355045775
+"Popularity=Unnoticed, Rating=Poor, Service=Delivery",3,0.05282542355045775
+"OnlineOrder=Yes, Service=Delivery, Zone=East",3,0.0527201936230664
+"Cuisine=North Indian, Type=Quick Bites, Zone=East",3,0.0527201936230664
+"Cuisine=Continental, Popularity=Popular",2,0.0527201936230664
+"Cuisine=Biryani, Service=Dine-out, Type=Quick Bites",3,0.0527201936230664
+"Rating=Poor, Service=Dine-out, Type=Casual Dining",3,0.052509733768283696
+"Cuisine=Chinese, Type=Quick Bites, Zone=South",3,0.052509733768283696
+"Cuisine=Biryani, Popularity=Popular",2,0.052509733768283696
+"Popularity=Popular, Rating=Average, Zone=South",3,0.052509733768283696
+"Rating=Poor, Type=Quick Bites, Zone=East",3,0.052509733768283696
+"OnlineOrder=Yes, TableBooking=Yes",2,0.052509733768283696
+"Service=Delivery, TableBooking=No, Type=Delivery",3,0.05240450384089235
+"Cuisine=North Indian, OnlineOrder=No, Type=Quick Bites",3,0.05240450384089235
+"Cost=High, TableBooking=No",2,0.05240450384089235
+"OnlineOrder=Yes, Popularity=Unnoticed, Zone=East",3,0.05240450384089235
+"Service=Delivery, Type=Delivery",2,0.05240450384089235
+"Cuisine=Bakery, TableBooking=No",2,0.052299273913501
+"Cuisine=South Indian, Type=Casual Dining",2,0.05219404398610965
+"Cuisine=Biryani, Cuisine=Chinese",2,0.05219404398610965
+"Cost=Low, Cuisine=South Indian, OnlineOrder=No",3,0.05219404398610965
+"OnlineOrder=No, Popularity=Unnoticed, Zone=East",3,0.0520888140587183
+"Cuisine=Chinese, Popularity=Unnoticed, Type=Quick Bites",3,0.0520888140587183
+"Cuisine=Fast Food, OnlineOrder=No, TableBooking=No",3,0.0520888140587183
+"Cost=Medium, OnlineOrder=No, Type=Casual Dining",3,0.05198358413132695
+"Cuisine=Continental, TableBooking=No",2,0.0518783542039356
+"OnlineOrder=Yes, Service=Delivery, Type=Quick Bites",3,0.05177312427654425
+"Cost=Medium, Popularity=Unnoticed, Rating=Poor",3,0.0516678943491529
+"Cuisine=North Indian, Popularity=Popular, Zone=East",3,0.0514574344943702
+"Cost=High, OnlineOrder=Yes",2,0.05135220456697885
+"Cost=Low, Cuisine=North Indian, Cuisine=South Indian",3,0.0512469746395875
+"Cuisine=North Indian, Type=Casual Dining, Zone=East",3,0.051141744712196145
+"Popularity=Known, Service=Dine-out, Type=Casual Dining",3,0.051036514784804796
+"Cost=High, Popularity=Popular, Type=Casual Dining",3,0.051036514784804796
+"Cost=Medium, Service=Dine-out, Type=Quick Bites",3,0.050931284857413446
+"Popularity=Known, Rating=Poor, Service=Dine-out",3,0.050826054930022097
+"Popularity=Popular, Type=Casual Dining, Zone=South",3,0.050826054930022097
+"Cost=Low, Cuisine=South Indian, Zone=South",3,0.0506155950752394
+"OnlineOrder=Yes, Rating=Good, Type=Casual Dining",3,0.05051036514784805
+"Cost=Medium, OnlineOrder=Yes, Type=Quick Bites",3,0.0504051352204567
+"Cuisine=South Indian, OnlineOrder=Yes, Rating=Average",3,0.05029990529306535
+"Popularity=Popular, Rating=Good, Zone=East",3,0.05029990529306535
+"Cuisine=Chinese, Popularity=Popular, Zone=South",3,0.05008944543828265

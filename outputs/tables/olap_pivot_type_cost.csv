@@ -1,0 +1,24 @@
+rest_type,Low,Medium,High
+Bakery,3.54,3.6,3.85
+Bar,,3.44,3.92
+Beverage Shop,3.65,3.78,
+Bhojanalya,3.27,,
+Cafe,3.64,3.82,3.74
+Casual Dining,3.4,3.61,4.0
+Club,,,4.02
+Confectionery,3.8,,3.48
+Delivery,3.51,3.59,3.6
+Dessert Parlor,3.8,3.84,4.03
+Dhaba,3.32,3.3,
+Fine Dining,,3.4,4.16
+Food Court,3.43,3.41,3.5
+Food Truck,3.55,3.7,
+Kiosk,3.55,3.67,
+Lounge,,,3.88
+Mess,3.49,,
+Microbrewery,,,4.41
+Pub,,3.7,4.06
+Quick Bites,3.52,3.52,3.81
+Sweet Shop,3.59,3.3,
+Takeaway,3.5,3.53,3.5
+Unknown,3.44,3.04,3.2
